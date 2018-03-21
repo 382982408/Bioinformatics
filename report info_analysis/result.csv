@@ -1,0 +1,1368 @@
+,id,gene name,genetype
+0,QYW28874,SMPD1,基因型 ：  GG   GT    TT      
+1,QYW54841,SMPD1,基因型 ：  C C   CT    TT    
+2,QYW72858,SMPD1,基因型 ：  DD   DI    I I    
+3,QYW86826,LDLR,基因型 ：  GG   GT    TT     
+4,QYW76262,LDLR,基因型 ：  AA   A G   GG      
+5,QYW46009,APOB,基因型 ：  C C   CT    TT    
+6,QYW37531,TTR,基因型 ：  AA   A G   GG      
+7,QYW15092,PCDH15,基因型 ：  AA   A G   GG   
+8,QYW26270,SERPINA1,基因型 ：  AA   A G   GG 
+9,QYW97756,PMM2,基因型 ：  AA   A G   GG    
+10,QYW14490,F11,基因型 ：  GG   GT    TT      
+11,QYW59382,F11,基因型 ：  C C   CT    TT      
+12,QYW32259,ASPA,基因型 ：  C C   CT    TT    AA   A T    A C 
+13,QYW39625,ASPA,基因型 ：  AA   A C   C C   
+14,QYW72601,ASPA,基因型 ：  AA   A C   C C    
+15,QYW58706,PE1,基因型 ：  C C   CT    TT     
+16,QYW91695,CNGB3,基因型 ：  C C   CT    TT   
+17,QYW84743,PAH,基因型 ：  C C   CT    TT      
+18,QYW98295,PAH,基因型 ：  AA   A G   GG      
+19,QYW58910,PAH,基因型 ：  AA   A G   GG       
+20,QYW63223,PAH,基因型 ：  GG   C G   C C     
+21,QYW24161,PAH,基因型 ：  C C   C G   GG     
+22,QYW38176,CFTR,基因型 ：  AA   A G   GG    
+23,QYW95029,CFTR,基因型 ：  C C   CT    TT   
+24,QYW68342,CFTR,基因型 ：  AA   A G   GG     
+25,QYW23649,CFTR,基因型 ：  AA   A G   GG    
+26,QYW57765,CFTR,基因型 ：  AA   A G   GG    
+27,QYW36632,CFTR,基因型 ：  GG   GT    TT    
+28,QYW13274,CFTR,基因型 ：  AA   A G   GG     
+29,QYW16550,CFTR,基因型 ：  GG   GT    TT    
+30,QYW40707,HBA2,基因型 ：  C C   CT    TT    
+31,QYW71169,HBB,基因型 ：  AA   A C   C C     
+32,QYW23361,HBB,基因型 ：  C C   C G   GG    
+33,QYW34505,HBB,基因型 ：  C C   CT    TT    
+34,QYW14318,HBB,基因型 ：  C C   C G   GG    
+35,QYW86159,HBB,基因型 ：  C C   CT    TT      
+36,QYW24217,FANCC,基因型 ：  AA   A G   GG  
+37,QYW27442,FANCC,基因型 ：  DD   DI    I I  
+38,QYW39909,PALB2,基因型 ：  GG   C G   C C  
+39,QYW33693,PALB2,基因型 ：  C C   CT    TT  
+40,QYW66793,PALB2,基因型 ：  DD   DI    I I  
+41,QYW97263,FANCA,基因型 ：  DD   DI    I I    
+42,QYW54752,MEFV,基因型 ：  AA   A G   GG    
+43,QYW78687,MEFV,基因型 ：  AA   A G   GG      
+44,QYW69228,MEFV,基因型 ：  C C   CT    TT   
+45,QYW98278,MEFV,基因型 ：  AA   A G   GG    
+46,QYW82878,MYBPC3,基因型 ：  AA   A G   GG  
+47,QYW43655,MYH7,基因型 ：  C C   CT    TT    
+48,QYW60882,MYBPC3,基因型 ：  DD   DI    I I 
+49,QYW31795,MYL2,基因型 ：  GG   GA   AA     
+50,QYW29546,IKBKAP,基因型 ：  C C   CT    TT 
+51,QYW49457,ABCC8,基因型 ：  C C   CT    TT   
+52,QYW52032,ABCC8,基因型 ：  C C   CT    TT 
+53,QYW72808,HEA,基因型 ：  C C   CT    TT     
+54,QYW19383,HEA,基因型 ：  C C   CT    TT     
+55,QYW66457,BCKDHB,基因型 ：  AA   A G   GG   
+56,QYW26581,BCKDHB,基因型 ：  DD   DI    I I 
+57,QYW13777,PPT1,基因型 ：  AA   A T     TT     
+58,QYW99176,PPT1,基因型 ：  GG   GT    TT      
+59,QYW68886,PPT1,基因型 ：  AA   A G   GG        
+60,QYW79985,MCOLN1,基因型 ：  AA   A G   GG 
+61,QYW83429,G6PC,基因型 ：  C C   CT    TT    
+62,QYW90422,SGCA,基因型 ：  C C   CT    TT     
+63,QYW43967,SGCB,基因型 ：  GG   C G   C C     
+64,QYW42210,PE7,基因型 ：  AA   A T     TT    
+65,QYW63549,G6PD,基因型 ：  AA   A G   GG     
+66,QYW84059,G6PD,基因型 ：  AA   A G   GG     
+67,QYW96891,ACADM,基因型 ：  C C   CT    TT   
+68,QYW85385,ACADM,基因型 ：  C C   CT    TT   
+69,QYW39142,ACADM,基因型 ：  C C   CT    TT  
+70,QYW39498,ACADM,基因型 ：  AA   A G   GG   
+71,QYW10147,DPYD,基因型 ：  AA   A G   GG      
+72,QYW44786,HFE,基因型 ：  C C   C G   GG     
+73,QYW76694,HFE,基因型 ：  AA   A G   GG       
+74,QYW57311,HFE,基因型 ：  AA   A T     TT   
+75,QYW65667,SLC17A5,基因型 ：  C C   CT    TT 
+76,QYW18917,ALDOB,基因型 ：  GG   C G   C C   
+77,QYW60396,ALDOB,基因型 ：  GG   GT    TT  
+78,QYW70718,ALDOB,基因型 ：  C C   C G   GG  
+79,QYW25254,GJB2,基因型 ：  GG   GT    TT     
+80,QYW33931,GJB2,基因型 ：  AA   A G   GG    
+81,QYW24641,GJB2,基因型 ：  AA   A G   GG     
+82,QYW90763,GJB2,基因型 ：  C C   CT    TT     
+83,QYW95729,GJB2,基因型 ：  AA   A G   GG     
+84,QYW63421,GJB2,基因型 ：  AA   A G   GG      
+85,QYW47873,GJB2,基因型 ：  DD   DI    I I     
+86,QYW58631,GJB2,基因型 ：  AA   A G   GG      
+87,QYW18305,GJB2,基因型 ：  C C   CT    TT     
+88,QYW66677,GJB2,基因型 ：  GG   C G   C C    
+89,QYW82650,SLC26A4,基因型 ：  GG   GT    TT 
+90,QYW87849,SLC26A4,基因型 ：  AA   A G   GG 
+91,QYW46707,SLC26A4,基因型 ：  GG   GT    TT 
+92,QYW19295,SLC26A4,基因型 ：  AA   A G   GG 
+93,QYW61109,SLC26A4,基因型 ：  C C   CT    TT 
+94,QYW13098,FAH,基因型 ：  GG   GT    TT       
+95,QYW40552,FAH,基因型 ：  C C   CT    TT    
+96,QYW37568,FAH,基因型 ：  AA   A G   GG     
+97,QYW75519,GBA,基因型 ：  C C   CT    TT     
+98,QYW53278,GBA,基因型 ：  AA   A C   C C   
+99,QYW15092,PCDH15,基因型 ：  C C   CT    TT 
+100,QYW80657,KCNQ1,基因型 ：  C C   CT    TT  
+101,QYW21193,GCDH,基因型 ：  C C   CT    TT  
+102,QYW31020,GAA,基因型 ：  AA   A C   C C     
+103,QYW52453,FN,基因型 ：  GG   GT    TT     
+104,QYW52101,GALT,基因型 ：  C C   CT    TT   
+105,QYW51337,PKHD1,基因型 ：  AA   A G   GG    
+106,QYW51839,PKHD1,基因型 ：  GG   GT    TT    
+107,QYW30513,PKHD1,基因型 ：  DD   DI    I I  
+108,QYW82583,PKHD1,基因型 ：  DD   DI    I I   
+109,QYW55821,PKHD1,基因型 ：  C C   CT    TT  
+110,QYW76389,PKHD1,基因型 ：  AA   A G   GG     
+111,QYW13747,PKHD1,基因型 ：  AA   A G   GG     
+112,QYW82220,PKHD1,基因型 ：  DD   DI    I I  
+113,QYW60649,PKHD1,基因型 ：  DD   DI    I I  
+114,QYW14024,PKHD1,基因型 ：  AA   A G   GG    
+115,QYW45432,GLA,基因型 ：  AA   A G   GG      
+116,QYW97514,GLA,基因型 ：  AA   A C   C C     
+117,QYW37437,ATP7B,基因型 ：  GG   GT    TT   
+118,QYW96230,ATP7B,基因型 ：  GG   GT    TT 
+119,QYW85797,CBS,基因型 ：  C C   CT    TT      
+120,QYW44858,CBS,基因型 ：  C C   CT    TT     
+121,QYW14209,TSC2,基因型 ：  AA   A G   GG    
+122,QYW23938,TSC2,基因型 ：  C C   CT    TT 
+123,QYW21717,ASL,基因型 ：  AA   A G   GG   
+124,QYW93195,ASL,基因型 ：  C C   CT    TT  
+125,QYW61155,ASL,基因型 ：  C C   CT    TT   
+126,QYW84732,ASL,基因型 ：  AA   A G   GG    
+127,QYW30611,ASL,基因型 ：  AA   A G   GG    
+128,QYW25883,ASL,基因型 ：  C C   CT    TT    
+129,QYW59673,ASL,基因型 ：  C C   CT    TT    
+130,QYW24355,TRPC6,基因型 ：  AA   A G   GG 
+131,QYW15534,GALC,基因型 ：  C C   CT    TT    
+132,QYW17659,GALC,基因型 ：  GG   GT    TT     
+133,QYW94665,GALC,基因型 ：  C C   CT    TT   
+134,QYW72203,GALC,基因型 ：  C C   CT    TT    
+135,QYW89267,CEP290,基因型 ：  AA   A G   GG 
+136,QYW20857,FGFR3,基因型 ：  AA   A G   GG   
+137,QYW21313,FGFR3,基因型 ：  GG   GT    TT 
+138,QYW79937,CYP21A2,基因型 ：  C C   CT    TT 
+139,QYW65752,CYP21A2,基因型 ：  GG   GT    TT 
+140,QYW64012,MLH1,基因型 ：  C C   CT    TT   
+141,QYW43442,MSH2,基因型 ：  AA   A T     TT 
+142,QYW94461,MLH1,基因型 ：  C C   CT    TT   
+143,QYW82131,MSH2,基因型 ：  DD   DI    I I 
+144,QYW67903,MSH2,基因型 ：  DD   DI    I I  
+145,QYW27151,MLH1,基因型 ：  AA   A G   GG   
+146,QYW94922,MLH1,基因型 ：  AA   A C   C C  
+147,QYW87961,MLH1,基因型 ：  AA   A G   GG    
+148,QYW46562,MSH2,基因型 ：  C C   CT    TT  
+149,QYW16981,MLH1,基因型 ：  C C   CT    TT     
+150,QYW30168,COL7A1,基因型 ：  C C   CT    TT 
+151,QYW85812,SCN2A,基因型 ：  C C   CT    TT   
+152,QYW39767,SCN2A,基因型 ：  AA   A G   GG    
+153,QYW70143,SCN2A,基因型 ：  AA   A G   GG    
+154,QYW69572,ERBB4,基因型 ：  C C   CT    TT 
+155,QYW51115,--,基因型 ：  C C   CT    TT      
+156,QYW93228,FGFR2,基因型 ：  C C   CT    TT 
+157,QYW99555,CASC16,基因型 ：  C C   CT    TT 
+158,QYW19452,CASC16,基因型 ：  C C   CT    TT 
+159,QYW64201,--,基因型 ：  AA   A C   C C       
+160,QYW99842,TAB2,基因型 ：  AA   A G   GG    
+161,QYW44396,LINC00824,基因型 ：  AA   A G   GG 
+162,QYW81521,PGR,基因型 ：  GG   GT    TT     
+163,QYW84371,HAGLR,基因型 ：  GG   GT    TT 
+164,QYW97693,ESR1,基因型 ：  GG   GT    TT 
+165,QYW34969,TIPARP,基因型 ：  C C   CT    TT 
+166,QYW90195,--,基因型 ：  C C   CT    TT      
+167,QYW20793,SAP1,基因型 ：  AA   A G   GG   
+168,QYW45632,SLIT3,基因型 ：  AA   A G   GG  
+169,QYW50984,CDN1A,基因型 ：  AA   A C   C C 
+170,QYW69674,IL17A,基因型 ：  AA   A G   GG    
+171,QYW55556,HLA-DPA1,基因型 ：  C C   CT    TT 
+172,QYW81988,HLA-DPB1,基因型 ：  AA   A G   GG 
+173,QYW17527,CYP1B1,基因型 ：  C C   C G   GG 
+174,QYW84168,CYP1B1,基因型 ：  AA   A G   GG 
+175,QYW70616,COMT,基因型 ：  C C   CT    TT   
+176,QYW40744,ESR1,基因型 ：  AA   A G   GG      
+177,QYW25447,TNRC6B,基因型 ：  AA   A G   GG 
+178,QYW15374,BET1L,基因型 ：  AA   A G   GG    
+179,QYW70541,LOC102724351,基因型 ：  C C   CT    TT 
+180,QYW93022,MGMT,基因型 ：  AA   A G   GG    
+181,QYW95171,--,基因型 ：  GG   GT    TT       
+182,QYW89097,LF6,基因型 ：  C C   CT    TT     
+183,QYW79973,CLPTM1L,基因型 ：  C C   CT    TT 
+184,QYW61242,CYP24A1,基因型 ：  C C   CT    TT 
+185,QYW78193,EGFR,基因型 ：  AA   A G   GG    
+186,QYW28335,TP53,基因型 ：  C C   C G   GG  
+187,QYW54958,IL23R,基因型 ：  AA   A C   C C 
+188,QYW95267,MIR196A2,基因型 ：  C C   CT    TT 
+189,QYW81192,TLR9,基因型 ：  C C   CT    TT  
+190,QYW61605,CXCL8,基因型 ：  AA   A T     TT 
+191,QYW98598,IF1B,基因型 ：  AA   A G   GG   
+192,QYW38723,MIR146A,基因型 ：  C C   C G   GG 
+193,QYW61680,PNPLA3,基因型 ：  C C   C G   GG 
+194,QYW23881,--,基因型 ：  AA   A G   GG        
+195,QYW60359,VEGFA,基因型 ：  C C   C G   GG  
+196,QYW96921,VEGFA,基因型 ：  C C   CT    TT 
+197,QYW81631,VEGFA,基因型 ：  AA   A C   C C  
+198,QYW43429,--,基因型 ：  AA   A T     TT      
+199,QYW33671,CTLA4,基因型 ：  AA   A G   GG  
+200,QYW93945,BACH1,基因型 ：  AA   A G   GG  
+201,QYW64660,FAM19A5,基因型 ：  AA   A G   GG 
+202,QYW62007,--,基因型 ：  C C   C G   GG       
+203,QYW69674,IL17A,基因型 ：  AA   A G   GG    
+204,QYW59890,IL17F,基因型 ：  C C   CT    TT 
+205,QYW20338,TACC3,基因型 ：  C C   CT    TT 
+206,QYW39009,--,基因型 ：  C C   CT    TT      
+207,QYW10351,CASC11,基因型 ：  GG   GT    TT  
+208,QYW74191,PTGS2,基因型 ：  C C   C G   GG    
+209,QYW20204,TLR4,基因型 ：  C C   CT    TT   
+210,QYW29778,PTGS2,基因型 ：  AA   A G   GG   
+211,QYW43940,DCC,基因型 ：  C C   CT    TT     
+212,QYW63795,FAT4,基因型 ：  C C   CT    TT    
+213,QYW73441,ADH1B,基因型 ：  AA   A G   GG   
+214,QYW70234,ALS2CR12,基因型 ：  AA   A G   GG 
+215,QYW64738,PLCE1,基因型 ：  AA   A G   GG   
+216,QYW96170,--,基因型 ：  AA   A G   GG       
+217,QYW75829,--,基因型 ：  C C   CT    TT       
+218,QYW55809,LINC-PINT,基因型 ：  GG   GT    TT 
+219,QYW79973,CLPTM1L,基因型 ：  C C   CT    TT 
+220,QYW75849,--,基因型 ：  GG   GT    TT        
+221,QYW61903,PADI6,基因型 ：  AA   A G   GG    
+222,QYW94382,--,基因型 ：  GG   GT    TT        
+223,QYW95267,MIR196A2,基因型 ：  C C   CT    TT 
+224,QYW64738,PLCE1,基因型 ：  AA   A G   GG  
+225,QYW38723,MIR146A,基因型 ：  C C   C G   GG 
+226,QYW65183,COLCA1,基因型 ：  AA   A C   C C 
+227,QYW59697,SMAD7,基因型 ：  C C   CT    TT    
+228,QYW65519,CASC8,基因型 ：  GG   GT    TT 
+229,QYW25442,ESR1,基因型 ：  AA   A G   GG    
+230,QYW81631,VEGFA,基因型 ：  AA   A C   C C  
+231,QYW97816,--,基因型 ：  C C   CT    TT      
+232,QYW19589,--,基因型 ：  AA   A G   GG       
+233,QYW38170,DIRC3,基因型 ：  C C   CT    TT 
+234,QYW96170,--,基因型 ：  AA   A G   GG       
+235,QYW51420,TYR,基因型 ：  AA   A G   GG     
+236,QYW12262,CD10,基因型 ：  C C   CT    TT  
+237,QYW75849,--,基因型 ：  GG   GT    TT        
+238,QYW91688,PIGU,基因型 ：  AA   A G   GG     
+239,QYW24271,--,基因型 ：  AA   A G   GG      
+240,QYW21946,NEDD4,基因型 ：  C C   CT    TT 
+241,QYW92326,--,基因型 ：  C C   CT    TT     
+242,QYW13155,CD44,基因型 ：  C C   CT    TT  
+243,QYW12408,CDN2B-AS1,基因型 ：  AA   A G   GG 
+244,QYW91009,--,基因型 ：  AA   A G   GG        
+245,QYW71504,--,基因型 ：  AA   A G   GG        
+246,QYW21623,MECOM,基因型 ：  AA   A G   GG 
+247,QYW98496,TNFRSF19,基因型 ：  AA   A G   GG 
+248,QYW97169,MLLT10,基因型 ：  AA   A G   GG 
+249,QYW35213,MTRR,基因型 ：  AA   A G   GG  
+250,QYW79750,SOD3,基因型 ：  C C   CT    TT    
+251,QYW53191,--,基因型 ：  AA   A G   GG       
+252,QYW37145,CNNM2,基因型 ：  GG   A G   AA 
+253,QYW14953,CDN2B-AS1,基因型 ：  C C   CT    TT 
+254,QYW57162,BOLL,基因型 ：  AA   A G   GG    
+255,QYW83655,RP1,基因型 ：  AA   A G   GG     
+256,QYW67435,--,基因型 ：  AA   A G   GG        
+257,QYW53191,--,基因型 ：  AA   A G   GG       
+258,QYW14953,CDN2B-AS1,基因型 ：  C C   CT    TT 
+259,QYW27123,DAB2IP,基因型 ：  AA   A G   GG 
+260,QYW37914,CASC15,基因型 ：  C C   CT    TT 
+261,QYW16593,NBAT1,基因型 ：  AA   A G   GG   
+262,QYW48792,CASC15,基因型 ：  AA   A C   C C 
+263,QYW73441,ADH1B,基因型 ：  AA   A G   GG   
+264,QYW57313,BIVM-ERCC5,基因型 ：  C C   C G   GG 
+265,QYW45180,TNFAIP8,基因型 ：  C C   CT    TT 
+266,QYW14487,PRRC2A,基因型 ：  AA   A C   C C 
+267,QYW50358,TLR6,基因型 ：  C C   CT    TT  
+268,QYW99228,ITGB3,基因型 ：  C C   CT    TT 
+269,QYW68417,SELPLG,基因型 ：  C C   CT    TT 
+270,QYW43506,PRD2,基因型 ：  AA   A G   GG    
+271,QYW50876,SP110,基因型 ：  GG   GT    TT 
+272,QYW92512,ACOXL,基因型 ：  AA   A G   GG 
+273,QYW80680,--,基因型 ：  AA   A G   GG        
+274,QYW74210,GRAMD1B,基因型 ：  AA   A G   GG 
+275,QYW30566,IRF4,基因型 ：  AA   A G   GG  
+276,QYW94191,CNNM2,基因型 ：  C C   CT    TT 
+277,QYW28986,--,基因型 ：  AA   A T     TT      
+278,QYW90289,ATP2B1,基因型 ：  AA   A G   GG 
+279,QYW56487,NOS3,基因型 ：  C C   CT    TT    
+280,QYW86189,ATP2B1,基因型 ：  C C   CT    TT 
+281,QYW44583,APOA5,基因型 ：   TT    CT   C C 
+282,QYW96855,APOA5,基因型 ：  C C   CT    TT 
+283,QYW44207,APOA5,基因型 ：  AA   A G   GG  
+284,QYW67435,--,基因型 ：  AA   A G   GG        
+285,QYW64018,--,基因型 ：  C C   C G   GG       
+286,QYW24836,MIA3,基因型 ：  AA   A C   C C  
+287,QYW17710,ESR1,基因型 ：  C C   CT    TT  
+288,QYW16014,PPARG,基因型 ：  C C   CT    TT  
+289,QYW71330,CETP,基因型 ：  C C   CT    TT 
+290,QYW70383,SMARCA4,基因型 ：  GG   GT    TT  
+291,QYW64018,--,基因型 ：  C C   C G   GG       
+292,QYW24836,MIA3,基因型 ：  AA   A C   C C  
+293,QYW60359,VEGFA,基因型 ：  C C   C G   GG  
+294,QYW20849,HNF1A,基因型 ：  AA   A C   C C 
+295,QYW87979,CKN2B-AS1,基因型 ：  AA   A G   GG 
+296,QYW12375,CKN2B-AS1,基因型 ：  AA   A G   GG 
+297,QYW43094,CELSR2,基因型 ：  AA   A G   GG  
+298,QYW61600,MRAS,基因型 ：  C C   CT    TT  
+299,QYW10269,ARB2,基因型 ：  C C   C G   GG    
+300,QYW65583,ARB2,基因型 ：  C C   CT    TT  
+301,QYW33482,AGT,基因型 ：  C C   CT    TT     
+302,QYW77752,BSG,基因型 ：  AA   A T     TT    
+303,QYW29426,IL18,基因型 ：  C C   C G   GG  
+304,QYW66607,BAZ2B,基因型 ：  AA   A C   C C 
+305,QYW40099,ARHGAP9,基因型 ：  GG   GT    TT 
+306,QYW64018,--,基因型 ：  C C   C G   GG       
+307,QYW67435,--,基因型 ：  AA   A G   GG        
+308,QYW38327,--,基因型 ：  C C   CT    TT      
+309,QYW64018,--,基因型 ：  C C   C G   GG       
+310,QYW24836,MIA3,基因型 ：  AA   A C   C C  
+311,QYW85619,IL18,基因型 ：  GG   GT    TT    
+312,QYW70070,TNFSF4,基因型 ：  C C   CT    TT 
+313,QYW96080,CYP2C19,基因型 ：  AA   A G   GG 
+314,QYW12375,CKN2B-AS1,基因型 ：  AA   A G   GG 
+315,QYW77692,LRP8,基因型 ：  AA   A G   GG    
+316,QYW91503,KCNN3,基因型 ：  C C   CT    TT  
+317,QYW65330,KCNE1,基因型 ：  AA   A G   GG 
+318,QYW61977,ZFHX3,基因型 ：  AA   A G   GG  
+319,QYW60463,--,基因型 ：  C C   CT    TT       
+320,QYW41152,TBX5,基因型 ：  AA   A G   GG   
+321,QYW81221,CYP4V2,基因型 ：  AA   A C   C C 
+322,QYW63126,GP6,基因型 ：  AA   A G   GG     
+323,QYW86543,CPB2-AS1,基因型 ：  C C   CT    TT 
+324,QYW90354,F5,基因型 ：  AA   A G   GG        
+325,QYW97677,--,基因型 ：  AA   A G   GG        
+326,QYW20145,NAA25,基因型 ：  AA   A G   GG  
+327,QYW22052,HAC9,基因型 ：  C C   CT    TT 
+328,QYW60463,--,基因型 ：  C C   CT    TT       
+329,QYW21856,SH2B3,基因型 ：  C C   CT    TT 
+330,QYW43891,--,基因型 ：  AA   A C   C C        
+331,QYW60934,--,基因型 ：  C C   CT    TT       
+332,QYW90354,F5,基因型 ：  AA   A G   GG        
+333,QYW70070,TNFSF4,基因型 ：  C C   CT    TT 
+334,QYW37483,APOE,基因型 ：  C C   CT    TT    
+335,QYW29778,PTGS2,基因型 ：  AA   A G   GG   
+336,QYW33482,AGT,基因型 ：   TT    CT   C C    
+337,QYW70561,SYN1,基因型 ：  GG   GT    TT 
+338,QYW90147,PMF1-BGLAP,基因型 ：  C C   CT    TT 
+339,QYW92729,TBL2,基因型 ：  C C   CT    TT 
+340,QYW42642,GALNT2,基因型 ：  AA   A G   GG 
+341,QYW46381,ZPR1,基因型 ：  C C   C G   GG     
+342,QYW82618,--,基因型 ：  GG   GT    TT        
+343,QYW25298,--,基因型 ：  C C   CT    TT     
+344,QYW95872,BACH2,基因型 ：  C C   C G   GG 
+345,QYW71279,CLEC16A,基因型 ：  AA   A G   GG 
+346,QYW53318,AA1,基因型 ：  AA   A G   GG   
+347,QYW20145,NAA25,基因型 ：  AA   A G   GG  
+348,QYW95803,IFIH1,基因型 ：  C C   CT    TT 
+349,QYW86656,IL2,基因型 ：  GG   GT    TT     
+350,QYW55969,ERBB3,基因型 ：  GG   GT    TT  
+351,QYW33671,CTLA4,基因型 ：  AA   A G   GG  
+352,QYW63115,AP4B1-AS1,基因型 ：  AA   A G   GG 
+353,QYW92612,--,基因型 ：  GG   GT    TT       
+354,QYW15439,CTLA4,基因型 ：  AA   A G   GG   
+355,QYW21856,SH2B3,基因型 ：  C C   CT    TT 
+356,QYW32566,CCR5,基因型 ：    I    I I     
+357,QYW28063,CTSH,基因型 ：  C C   CT    TT   
+358,QYW42652,PHTF1,基因型 ：  AA   A C   C C  
+359,QYW91923,IL7R,基因型 ：  AA   A G   GG   
+360,QYW63342,STAT4,基因型 ：  GG   GT    TT    
+361,QYW37122,C226,基因型 ：  C C   CT    TT 
+362,QYW58183,HLA-QA1,基因型 ：  AA   A G   GG 
+363,QYW65758,--,基因型 ：  AA   A G   GG       
+364,QYW67435,--,基因型 ：  AA   A G   GG        
+365,QYW56757,--,基因型 ：  C C   CT    TT       
+366,QYW27379,GRK5,基因型 ：  C C   CT    TT  
+367,QYW13939,--,基因型 ：  C C   CT    TT      
+368,QYW98287,FAM58A,基因型 ：  AA   A G   GG 
+369,QYW78287,CKAL1,基因型 ：  AA   A G   GG    
+370,QYW81838,--,基因型 ：  AA   A G   GG        
+371,QYW33686,--,基因型 ：  AA   A G   GG       
+372,QYW75670,CKAL1,基因型 ：  C C   C G   GG  
+373,QYW35969,CKAL1,基因型 ：  AA   A G   GG   
+374,QYW11390,HLA-QA1,基因型 ：  AA   A G   GG 
+375,QYW95943,--,基因型 ：  GG   GT    TT        
+376,QYW68945,LPP,基因型 ：  C C   CT    TT     
+377,QYW16854,IL1B,基因型 ：  AA   A G   GG     
+378,QYW71322,C5,基因型 ：  AA   A G   GG      
+379,QYW66106,TNF,基因型 ：  AA   A G   GG    
+380,QYW85992,AGTR1,基因型 ：  AA   A C   C C  
+381,QYW74497,SCNN1A,基因型 ：  C C   CT    TT 
+382,QYW61673,COMT,基因型 ：  AA   A G   GG    
+383,QYW66088,TLR4,基因型 ：  AA   A G   GG   
+384,QYW18357,COMT,基因型 ：  AA   A G   GG     
+385,QYW73975,LINC01475,基因型 ：  AA   A G   GG 
+386,QYW10599,IL23R,基因型 ：  AA   A G   GG  
+387,QYW29853,--,基因型 ：  C C   CT    TT      
+388,QYW20326,NO2,基因型 ：     I    I I       
+389,QYW68268,NO2,基因型 ：  AA   A G   GG     
+390,QYW70727,IL23R,基因型 ：  C C   CT    TT 
+391,QYW14619,SLC22A5,基因型 ：  C C   C G   GG 
+392,QYW60015,CKAL1,基因型 ：  C C   CT    TT 
+393,QYW12660,ARB2,基因型 ：  AA   A G   GG   
+394,QYW85413,GSTP1,基因型 ：  AA   A G   GG    
+395,QYW65200,IL13,基因型 ：  C C   CT    TT 
+396,QYW35599,IL4,基因型 ：  C C   CT    TT   
+397,QYW27508,INPP4A,基因型 ：  C C   CT    TT 
+398,QYW40203,GSMB,基因型 ：  AA   A G   GG    
+399,QYW75070,GSMB,基因型 ：  C C   CT    TT  
+400,QYW33671,CTLA4,基因型 ：  AA   A G   GG 
+401,QYW36998,SCGB1A1,基因型 ：  AA   A G   GG 
+402,QYW25673,GSMA,基因型 ：  C C   CT    TT   
+403,QYW87965,TBX21,基因型 ：  C C   CT    TT 
+404,QYW66088,TLR4,基因型 ：  AA   A G   GG   
+405,QYW35827,MS4A2,基因型 ：  C C   CT    TT 
+406,QYW36047,GSMB,基因型 ：  C C   CT    TT  
+407,QYW53228,--,基因型 ：  AA   A G   GG      
+408,QYW97682,IKZF3,基因型 ：  C C   CT    TT  
+409,QYW90845,--,基因型 ：  AA   A G   GG      
+410,QYW18448,RUNX2,基因型 ：  C C   CT    TT 
+411,QYW50899,--,基因型 ：  AA   A C   C C     
+412,QYW20081,LHCGR,基因型 ：  AA   A G   GG 
+413,QYW26073,THAA,基因型 ：  AA   A C   C C  
+414,QYW69793,ENN1A,基因型 ：  AA   A G   GG 
+415,QYW11739,MTNR1B,基因型 ：  C C   C G   GG 
+416,QYW75670,CKAL1,基因型 ：  C C   C G   GG  
+417,QYW49116,TCF7L2,基因型 ：  C C   CT    TT 
+418,QYW52181,--,基因型 ：  AA   A G   GG       
+419,QYW30517,IL10,基因型 ：  C C   CT    TT  
+420,QYW73448,WNT4,基因型 ：  C C   CT    TT    
+421,QYW40744,ESR1,基因型 ：  AA   A G   GG      
+422,QYW19523,TNPO3,基因型 ：  C C   CT    TT 
+423,QYW92971,TNFSF13B,基因型 ：  GG   GT    TT 
+424,QYW63342,STAT4,基因型 ：  GG   GT    TT    
+425,QYW89973,--,基因型 ：  AA   A G   GG        
+426,QYW55926,LNPEP,基因型 ：  AA   A G   GG 
+427,QYW35661,ERAP1,基因型 ：  C C   CT    TT 
+428,QYW90564,--,基因型 ：  AA   A C   C C       
+429,QYW93597,UMO,基因型 ：  GG   GT    TT      
+430,QYW50680,UMO,基因型 ：  C C   CT    TT    
+431,QYW66637,PRKAG2,基因型 ：  AA   A G   GG  
+432,QYW34383,IL13,基因型 ：  C C   CT    TT   
+433,QYW81681,FAM13A,基因型 ：  C C   CT    TT 
+434,QYW87439,HYKK,基因型 ：  C C   CT    TT    
+435,QYW18094,TGFB1,基因型 ：  C C   CT    TT  
+436,QYW26873,EPR1,基因型 ：  C C   CT    TT  
+437,QYW13677,--,基因型 ：  AA   A C   C C       
+438,QYW58922,--,基因型 ：  AA   A G   GG       
+439,QYW92865,--,基因型 ：  AA   A C   C C      
+440,QYW75353,--,基因型 ：  C C   CT    TT      
+441,QYW79875,IKZF4,基因型 ：  GG   GT    TT   
+442,QYW40899,IL2RA,基因型 ：  C C   CT    TT  
+443,QYW22208,BTNL2,基因型 ：  AA   A G   GG 
+444,QYW37797,C6orf10,基因型 ：  AA   A G   GG 
+445,QYW87539,--,基因型 ：  C C   CT    TT      
+446,QYW69479,ERBB3,基因型 ：  AA   A G   GG  
+447,QYW34971,--,基因型 ：  GG   GT    TT        
+448,QYW23881,--,基因型 ：  AA   A G   GG        
+449,QYW71376,--,基因型 ：  C C   CT    TT       
+450,QYW28335,TP53,基因型 ：  C C   C G   GG  
+451,QYW30423,VR,基因型 ：  AA   A G   GG      
+452,QYW63115,PTPN22,基因型 ：  AA   A G   GG 
+453,QYW73975,LINC01475,基因型 ：  AA   A G   GG 
+454,QYW10599,IL23R,基因型 ：  AA   A G   GG  
+455,QYW81388,ZFP90,基因型 ：  GG   GT    TT  
+456,QYW95171,--,基因型 ：  GG   GT    TT       
+457,QYW21194,--,基因型 ：  AA   A C   C C      
+458,QYW11112,--,基因型 ：  AA   A G   GG       
+459,QYW68757,--,基因型 ：  AA   A C   C C       
+460,QYW81872,GLT61,基因型 ：  GG   C G   C C 
+461,QYW49848,IL6,基因型 ：  C C   C G   GG     
+462,QYW27319,VR,基因型 ：  C C   CT    TT    
+463,QYW91342,VR,基因型 ：  C C   CT    TT      
+464,QYW40159,--,基因型 ：  GG   A G   AA         
+465,QYW44738,SMIM1,基因型 ：  AA   A C   C C  
+466,QYW82776,SLC11A1,基因型 ：  C C   CT    TT 
+467,QYW18087,CCC26,基因型 ：  AA   A G   GG  
+468,QYW47840,--,基因型 ：  C C   CT    TT       
+469,QYW52457,--,基因型 ：  GG   C G   C C      
+470,QYW58978,CAR14,基因型 ：  C C   C G   GG 
+471,QYW34295,HCP5,基因型 ：  GG   GT    TT   
+472,QYW17674,--,基因型 ：  AA   A G   GG         
+473,QYW91290,NASE1L3,基因型 ：  AA   A G   GG 
+474,QYW63342,STAT4,基因型 ：  GG   GT    TT    
+475,QYW61835,SMOC2,基因型 ：  AA   A G   GG  
+476,QYW71391,TYR,基因型 ：  AA   A G   GG      
+477,QYW63115,PTPN22,基因型 ：  AA   A G   GG 
+478,QYW68876,IL2RA,基因型 ：  AA   A G   GG   
+479,QYW85059,GZMB,基因型 ：  AA   A G   GG    
+480,QYW71048,PP9,基因型 ：  AA   A G   GG     
+481,QYW81953,ATP11A,基因型 ：  AA   A G   GG 
+482,QYW56480,MAPT,基因型 ：  AA   A G   GG     
+483,QYW82494,SP,基因型 ：  GG   GT    TT     
+484,QYW85535,TERT,基因型 ：  GG   GT    TT   
+485,QYW74391,LRRC34,基因型 ：  C C   CT    TT 
+486,QYW38394,--,基因型 ：  C C   CT    TT       
+487,QYW21281,IRF2,基因型 ：  AA   A G   GG   
+488,QYW20082,--,基因型 ：  C C   CT    TT      
+489,QYW87132,IRF2,基因型 ：  AA   A G   GG   
+490,QYW64129,RTEL1-TNFRSF6B,基因型 ：  AA   A G   GG 
+491,QYW63115,PTPN22,基因型 ：  AA   A G   GG 
+492,QYW39663,--,基因型 ：  AA   A G   GG       
+493,QYW21856,SH2B3,基因型 ：  C C   CT    TT 
+494,QYW42652,PHTF1,基因型 ：  AA   A C   C C  
+495,QYW60854,--,基因型 ：  C C   CT    TT       
+496,QYW70326,SLC17A3,基因型 ：  AA   A T     TT 
+497,QYW18473,--,基因型 ：  AA   A G   GG        
+498,QYW33357,ABCG2,基因型 ：  AA   A C   C C 
+499,QYW19929,--,基因型 ：  C C   CT    TT      
+500,QYW84893,SLC2A9,基因型 ：  C C   C G   GG 
+501,QYW38004,CNIH2,基因型 ：  AA   A G   GG 
+502,QYW82086,SLC2A9,基因型 ：  C C   CT    TT 
+503,QYW83214,SLC2A9,基因型 ：  AA   A G   GG 
+504,QYW63213,ABCG2,基因型 ：  AA   A G   GG  
+505,QYW90631,SLC2A9,基因型 ：  GG   GT    TT 
+506,QYW69453,SLC2A9,基因型 ：  AA   A G   GG 
+507,QYW93138,PAI4,基因型 ：  AA   A G   GG   
+508,QYW63115,AP4B1-AS1,基因型 ：  AA   A G   GG 
+509,QYW99792,TRAF1,基因型 ：  AA   A G   GG  
+510,QYW62906,--,基因型 ：  C C   CT    TT      
+511,QYW98960,FCRL3,基因型 ：  AA   A G   GG  
+512,QYW62128,APOM,基因型 ：  GG   GT    TT 
+513,QYW84157,MECP2,基因型 ：  AA   A C   C C  
+514,QYW58360,MECP2,基因型 ：  AA   A T     TT 
+515,QYW11390,HLA-QA1,基因型 ：  AA   A G   GG 
+516,QYW71696,TYK2,基因型 ：  AA   A C   C C    
+517,QYW99615,SKIV2L,基因型 ：  AA   A G   GG 
+518,QYW39416,ANXA11,基因型 ：  C C   CT    TT 
+519,QYW39428,BTNL2,基因型 ：  AA   A G   GG  
+520,QYW51250,BTNL2,基因型 ：  C C   CT    TT 
+521,QYW45370,EPHA2,基因型 ：  C C   CT    TT  
+522,QYW20129,CRYAA,基因型 ：  AA   A G   GG  
+523,QYW46498,CFH,基因型 ：  C C   CT    TT    
+524,QYW59071,HTRA1,基因型 ：  AA   A G   GG   
+525,QYW85963,C3,基因型 ：  GG   C G   C C       
+526,QYW61553,TLR3,基因型 ：  AA   A G   GG   
+527,QYW91119,CFH,基因型 ：  C C   CT    TT   
+528,QYW13664,PP6,基因型 ：  C C   CT    TT    
+529,QYW69679,UNC13A,基因型 ：  AA   A C   C C 
+530,QYW86384,LOC107987057,基因型 ：  AA   A G   GG 
+531,QYW61385,BRINP1,基因型 ：  AA   A G   GG 
+532,QYW27696,HLA-RA,基因型 ：  C C   CT    TT 
+533,QYW14983,HLA-RA,基因型 ：  C C   CT    TT 
+534,QYW81335,--,基因型 ：  AA   A G   GG       
+535,QYW91923,IL7R,基因型 ：  C C   CT    TT  
+536,QYW19523,TNPO3,基因型 ：  C C   CT    TT 
+537,QYW24901,SPIB,基因型 ：  AA   A G   GG   
+538,QYW18801,MMEL1,基因型 ：  AA   A G   GG    
+539,QYW88778,IL12RB2,基因型 ：  AA   A G   GG 
+540,QYW65159,TNFSF15,基因型 ：  C C   CT    TT 
+541,QYW76044,IL12A-AS1,基因型 ：  GG   GT    TT 
+542,QYW63342,STAT4,基因型 ：  GG   GT    TT    
+543,QYW48273,--,基因型 ：  C C   CT    TT       
+544,QYW97682,IKZF3,基因型 ：  C C   CT    TT  
+545,QYW31795,MYL2,基因型 ：  AA   A G   GG   
+546,QYW79087,TNNT2,基因型 ：  AA   A G   GG  
+547,QYW55033,TNNT2,基因型 ：  C C   CT    TT 
+548,QYW85255,--,基因型 ：  AA   A G   GG       
+549,QYW68702,FTO,基因型 ：  C C   CT    TT     
+550,QYW70918,FTO,基因型 ：  AA   A G   GG       
+551,QYW53936,FTO,基因型 ：  C C   CT    TT   
+552,QYW73565,FTO,基因型 ：  AA   A T     TT   
+553,QYW26135,MC4R,基因型 ：  AA   A G   GG   
+554,QYW35701,FTO,基因型 ：  GG   GT    TT      
+555,QYW12502,APOA2,基因型 ：  C C   CT    TT 
+556,QYW78518,FAM71F1,基因型 ：  AA   A G   GG 
+557,QYW54076,FTO,基因型 ：  AA   A G   GG      
+558,QYW92034,FTO,基因型 ：  AA   A T     TT    
+559,QYW57012,FTO,基因型 ：  AA   A C   C C     
+560,QYW44822,FTO,基因型 ：  AA   A T     TT    
+561,QYW95045,FTO,基因型 ：  AA   A G   GG     
+562,QYW40000,--,基因型 ：  AA   A G   GG       
+563,QYW31633,RGS14,基因型 ：  AA   A G   GG   
+564,QYW21233,GKH,基因型 ：  C C   CT    TT 
+565,QYW73748,MYH9,基因型 ：  AA   A G   GG     
+566,QYW50680,UMO,基因型 ：  C C   CT    TT   
+567,QYW60790,MYH9,基因型 ：  GG   GT    TT   
+568,QYW53936,FTO,基因型 ：  C C   CT    TT   
+569,QYW18702,TOMM40,基因型 ：  AA   A G   GG 
+570,QYW75804,ABCG8,基因型 ：  C C   C G   GG  
+571,QYW17710,ESR1,基因型 ：  C C   CT    TT   
+572,QYW87267,UGT1A1,基因型 ：  GG   GT    TT 
+573,QYW45177,CILP,基因型 ：  C C   CT    TT  
+574,QYW46580,--,基因型 ：  C C   CT    TT       
+575,QYW30517,IL10,基因型 ：  AA   A G   GG   
+576,QYW63115,PTPN22,基因型 ：  AA   A G   GG 
+577,QYW62907,--,基因型 ：  GG   GT    TT        
+578,QYW61469,STAT6,基因型 ：  C C   CT    TT  
+579,QYW18803,--,基因型 ：  GG   GT    TT         
+580,QYW24872,LOC105375414,基因型 ：  C C   CT    TT 
+581,QYW95803,IFIH1,基因型 ：  C C   CT    TT 
+582,QYW11390,HLA-QA1,基因型 ：  AA   A G   GG 
+583,QYW91669,LOC105378189,基因型 ：  C C   CT    TT 
+584,QYW77153,CKN2B,基因型 ：  C C   CT    TT 
+585,QYW89518,CKN2B-AS1,基因型 ：  AA   A G   GG 
+586,QYW11698,COL11A1,基因型 ：  C C   CT    TT 
+587,QYW55197,LOXL1,基因型 ：  C C   CT    TT  
+588,QYW73441,AH1B,基因型 ：  AA   A G   GG   
+589,QYW67314,ALH1B1,基因型 ：  C C   CT    TT 
+590,QYW65823,ALH2,基因型 ：  AA   A G   GG 
+591,QYW81261,ITPA,基因型 ：  AA   A C   C C    
+592,QYW24223,IFNL4,基因型 ：  C C   CT    TT 
+593,QYW30529,ITPA,基因型 ：  C C   CT    TT  
+594,QYW86564,FABP1,基因型 ：  C C   CT    TT 
+595,QYW77181,RETN,基因型 ：  AA   A G   GG   
+596,QYW61680,PNPLA3,基因型 ：  GG   C G   C C 
+597,QYW23109,BTNL2,基因型 ：  C C   CT    TT 
+598,QYW83538,MCF2L,基因型 ：  AA   A G   GG 
+599,QYW16854,IL1B,基因型 ：  AA   A G   GG     
+600,QYW80099,COL6A4P1,基因型 ：  C C   CT    TT 
+601,QYW18406,SPTBN1,基因型 ：  AA   A G   GG 
+602,QYW19309,ALH7A1,基因型 ：  AA   A G   GG 
+603,QYW17710,ESR1,基因型 ：  C C   CT    TT   
+604,QYW35532,FTCNL1,基因型 ：  AA   A C   C C 
+605,QYW95186,CYP1A2,基因型 ：  AA   A G   GG 
+606,QYW91397,CYP1A2,基因型 ：  AA   A C   C C 
+607,QYW80349,RAI1,基因型 ：  AA   A G   GG 
+608,QYW76688,LRRK2,基因型 ：  AA   A G   GG  
+609,QYW12576,LRRK2,基因型 ：  AA   A G   GG  
+610,QYW77321,--,基因型 ：  AA   A G   GG      
+611,QYW42883,CYP26,基因型 ：  AA   A G   GG   
+612,QYW77866,FAM47E-STB1,基因型 ：  C C   CT    TT 
+613,QYW91397,CYP1A2,基因型 ：  AA   A C   C C 
+614,QYW48308,CLU,基因型 ：  C C   CT    TT   
+615,QYW43021,PL3,基因型 ：  AA   A G   GG     
+616,QYW37483,APOE,基因型 ：  C C   CT    TT   
+617,QYW74888,APOE,基因型 ：  C C   CT    TT    
+618,QYW14336,TREM2,基因型 ：  C C   CT    TT 
+619,QYW56173,HCRTR2,基因型 ：  AA   A G   GG 
+620,QYW27585,TRPM8,基因型 ：  C C   CT    TT 
+621,QYW81521,PGR,基因型 ：  GG   GT    TT     
+622,QYW76319,LRP1,基因型 ：  C C   CT    TT  
+623,QYW69422,--,基因型 ：  AA   A G   GG       
+624,QYW50236,PRM16,基因型 ：  AA   A G   GG 
+625,QYW84150,ZNF804A,基因型 ：  GG   GT    TT 
+626,QYW25348,--,基因型 ：  AA   A C   C C      
+627,QYW30637,NOTCH4,基因型 ：  AA   A G   GG 
+628,QYW18826,--,基因型 ：  C C   CT    TT        
+629,QYW25483,BCR,基因型 ：  AA   A G   GG      
+630,QYW81643,SP4,基因型 ：  AA   A G   GG      
+631,QYW56857,MTHFR,基因型 ：  C C   CT    TT 
+632,QYW72267,--,基因型 ：  AA   A C   C C       
+633,QYW23471,CACNA1C,基因型 ：  C C   CT    TT 
+634,QYW20019,GKH,基因型 ：  AA   A C   C C  
+635,QYW52805,PP10,基因型 ：  C C   CT    TT 
+636,QYW25483,BCR,基因型 ：  AA   A G   GG      
+637,QYW40116,--,基因型 ：  AA   A G   GG        
+638,QYW95455,PALB2,基因型 ：  C C   CT    TT 
+639,QYW43083,ATP8B3,基因型 ：  C C   CT    TT 
+640,QYW89609,FKBP5,基因型 ：  AA   A G   GG   
+641,QYW16731,--,基因型 ：  GG   GT    TT        
+642,QYW90645,SNOR105,基因型 ：  C C   CT    TT 
+643,QYW95633,P2RY11,基因型 ：  AA   A G   GG 
+644,QYW63214,TP2,基因型 ：  C C   CT    TT    
+645,QYW19226,ACOT13,基因型 ：  C C   CT    TT 
+646,QYW26442,TPH2,基因型 ：  C C   CT    TT  
+647,QYW97621,COL27A1,基因型 ：  AA   A G   GG 
+648,QYW71140,LOC105374974,基因型 ：  AA   A G   GG 
+649,QYW59205,ANKK1,基因型 ：  C C   CT    TT 
+650,QYW26442,TPH2,基因型 ：  C C   CT    TT  
+651,QYW66521,CLOCK,基因型 ：  C C   CT    TT 
+652,QYW23742,SLC6A3,基因型 ：  C C   CT    TT 
+653,QYW91855,LINGO1,基因型 ：  C C   CT    TT 
+654,QYW49415,SLC1A2,基因型 ：  GG   GT    TT 
+655,QYW92105,LINGO1,基因型 ：  AA   A G   GG 
+656,QYW31503,PTPR,基因型 ：  C C   CT    TT   
+657,QYW47084,MEIS1,基因型 ：  GG   GT    TT   
+658,QYW86535,BTB9,基因型 ：  AA   A G   GG   
+659,QYW26623,SLC19A1,基因型 ：  AA   A G   GG 
+660,QYW67726,MTHFR,基因型 ：  AA   A C   C C 
+661,QYW56857,MTHFR,基因型 ：  C C   CT    TT 
+662,QYW35213,MTRR,基因型 ：  AA   A G   GG  
+663,QYW70692,MTHF1,基因型 ：  C C   CT    TT 
+664,QYW47872,STX6,基因型 ：  AA   A G   GG   
+665,QYW45309,EIF2AK3,基因型 ：  C C   CT    TT 
+666,QYW97137,MAPT,基因型 ：  AA   A G   GG    
+667,QYW59205,ANKK1,基因型 ：  C C   CT    TT 
+668,QYW23742,SLC6A3,基因型 ：  C C   CT    TT 
+669,QYW70093,PECR,基因型 ：  AA   A G   GG    
+670,QYW43878,CHRNA4,基因型 ：  C C   CT    TT 
+671,QYW87722,CHRNA5,基因型 ：  AA   A G   GG 
+672,QYW48560,R2,基因型 ：  C C   CT    TT    
+673,QYW17056,--,基因型 ：  C C   CT    TT      
+674,QYW83300,--,基因型 ：  AA   A T     TT     
+675,QYW96118,LCT,基因型 ：  C C   CT    TT     
+676,QYW76043,LCT,基因型 ：  AA   A G   GG       
+677,QYW67726,MTHFR,基因型 ：  AA   A C   C C 
+678,QYW56857,MTHFR,基因型 ：  C C   CT    TT 
+679,QYW35213,FASTKD3,基因型 ：  AA   A G   GG 
+680,QYW73441,ADH1B,基因型 ：  AA   A G   GG   
+681,QYW59205,ANKK1,基因型 ：  C C   CT    TT 
+682,QYW65823,ALDH2,基因型 ：  AA   A G   GG 
+683,QYW81293,FFAR4,基因型 ：  C C   CT    TT 
+684,QYW67902,--,基因型 ：  AA   A C   C C       
+685,QYW56857,MTHFR,基因型 ：  C C   CT    TT 
+686,QYW48680,PRLID2,基因型 ：  C C   CT    TT 
+687,QYW46399,MS4A3,基因型 ：  C C   CT    TT 
+688,QYW14454,FUT6,基因型 ：  AA   A G   GG    
+689,QYW65465,CLYBL,基因型 ：  AA   A G   GG 
+690,QYW86466,SLC23A1,基因型 ：  AA   A G   GG 
+691,QYW62857,GC,基因型 ：  C C   CT    TT        
+692,QYW58502,NADSYN1,基因型 ：  AA   A G   GG 
+693,QYW37116,GC,基因型 ：  GG   GT    TT       
+694,QYW90758,SCARB1,基因型 ：  AA   A G   GG 
+695,QYW59432,CYP4F2,基因型 ：  C C   CT    TT 
+696,QYW46381,ZPR1,基因型 ：  C C   C G   GG     
+697,QYW59432,CYP4F2,基因型 ：  C C   CT    TT 
+698,QYW83300,--,基因型 ：  AA   A T     TT     
+699,QYW91397,CYP1A2,基因型 ：  AA   A C   C C 
+700,QYW30423,VDR,基因型 ：  AA   A G   GG     
+701,QYW22547,LRP5,基因型 ：  C C   CT    TT  
+702,QYW10941,LRP5,基因型 ：  AA   A G   GG     
+703,QYW28996,TMPRSS6,基因型 ：  AA   A G   GG 
+704,QYW42268,TMPRSS6,基因型 ：  C C   CT    TT 
+705,QYW62218,LIPC,基因型 ：  C C   CT    TT  
+706,QYW96252,LIPC-AS1,基因型 ：  AA   A G   GG 
+707,QYW48757,--,基因型 ：  GG   GT    TT         
+708,QYW14166,LDLR,基因型 ：  GG   GT    TT   
+709,QYW62240,--,基因型 ：  AA   A G   GG       
+710,QYW74266,FADS1,基因型 ：  C C   CT    TT   
+711,QYW60359,VGFA,基因型 ：  C C   C G   GG   
+712,QYW29868,PPARD,基因型 ：  C C   CT    TT 
+713,QYW54198,PPARA,基因型 ：  C C   C G   GG  
+714,QYW47370,GABPB1,基因型 ：  AA   A G   GG  
+715,QYW22820,NAT2,基因型 ：  AA   A G   GG   
+716,QYW74646,AMPD1,基因型 ：  AA   A C   C C   C G   A T    CT 
+717,QYW59205,ANKK1,基因型 ：  C C   CT    TT 
+718,QYW74646,AMPD1,基因型 ：  AA   A C   C C   C G   A T    CT 
+719,QYW49848,IL6,基因型 ：  C C   C G   GG     
+720,QYW56487,NOS3,基因型 ：  C C   CT    TT   
+721,QYW12660,ADRB2,基因型 ：  AA   A G   GG  
+722,QYW10269,ADRB2,基因型 ：  C C   C G   GG   
+723,QYW69193,ADRB1,基因型 ：  C C   C G   GG  
+724,QYW95763,ACSL1,基因型 ：  AA   A G   GG 
+725,QYW18013,ACVR1B,基因型 ：  AA   A G   GG  
+726,QYW33482,AGT,基因型 ：  C C   CT    TT     
+727,QYW78329,COL1A1,基因型 ：  GG   GT    TT 
+728,QYW45177,CILP,基因型 ：  C C   CT    TT  
+729,QYW50914,MMP3,基因型 ：  AA   A G   GG    
+730,QYW22749,BDNF-AS,基因型 ：  AA   A G   GG 
+731,QYW81885,PAPSS2,基因型 ：  C C   CT    TT   
+732,QYW40117,--,基因型 ：  AA   A G   GG        
+733,QYW44822,FTO,基因型 ：  AA   A T     TT    
+734,QYW62218,LIPC,基因型 ：  C C   CT    TT  
+735,QYW40103,PPARG,基因型 ：  C C   C G   GG    
+736,QYW87596,--,基因型 ：  DD   DI    I I       
+737,QYW84332,ABO,基因型 ：  GG   GT    TT     
+738,QYW37483,APOE,基因型 ：  C C   CT    TT    
+739,QYW74888,APOE,基因型 ：  C C   CT    TT    
+740,QYW63767,CRP,基因型 ：  AA   A G   GG      
+741,QYW62531,--,基因型 ：  AA   A G   GG       
+742,QYW68992,HNF1A,基因型 ：  AA   A G   GG 
+743,QYW79514,G6PC2,基因型 ：  AA   A G   GG  
+744,QYW58622,G6PC2,基因型 ：  AA   A G   GG  
+745,QYW19654,HK1,基因型 ：  C C   CT    TT     
+746,QYW45509,PRNP,基因型 ：  AA   A G   GG    
+747,QYW94888,TNF,基因型 ：  AA   A G   GG      
+748,QYW22749,BDNF-ASBDNF,基因型 ：  AA   A G   GG 
+749,QYW46495,HTR2A,基因型 ：  C C   CT    TT   
+750,QYW65985,FASTKD2MIR3130-2,基因型 ：  AA   A G   GG 
+751,QYW22288,BALAP2,基因型 ：  AA   A G   GG 
+752,QYW55769,FYN,基因型 ：  C C   CT    TT     
+753,QYW79052,KCNH1,基因型 ：  C C   CT    TT 
+754,QYW15422,--,基因型 ：  C C   CT    TT       
+755,QYW65339,--,基因型 ：  AA   A G   GG      
+756,QYW96170,--,基因型 ：  AA   A G   GG       
+757,QYW51420,TYR,基因型 ：  AA   A G   GG     
+758,QYW61744,IRF4,基因型 ：  C C   CT    TT   
+759,QYW21985,LOC105374875,基因型 ：  C C   CT    TT 
+760,QYW37394,HERC2,基因型 ：  AA   A G   GG  
+761,QYW71391,TRY,基因型 ：  AA   A G   GG      
+762,QYW75849,--,基因型 ：  GG   GT    TT        
+763,QYW72831,GPX1,基因型 ：  C C   CT    TT   
+764,QYW39997,NQO1,基因型 ：  C C   CT    TT  
+765,QYW37483,APOE,基因型 ：  C C   CT    TT    
+766,QYW11980,SOD2,基因型 ：  C C   CT    TT    
+767,QYW12782,HBB,基因型 ：  AA   A G   GG     
+768,QYW56515,ICAM1,基因型 ：  AA   A G   GG   
+769,QYW40392,LOC105374069,基因型 ：  AA   A G   GG 
+770,QYW98297,--,基因型 ：  C C   C G   GG       
+771,QYW85535,TERT,基因型 ：  GG   GT    TT   
+772,QYW63981,CETP,基因型 ：  AA   A G   GG    
+773,QYW35927,OBFC1,基因型 ：  AA   A C   C C 
+774,QYW63870,GRIN2A,基因型 ：  GG   GT    TT 
+775,QYW87518,EGP,基因型 ：  AA   A G   GG      
+776,QYW31092,IL12A-AS1,基因型 ：  AA   A G   GG 
+777,QYW29139,HLA-DQB2,基因型 ：  AA   A G   GG 
+778,QYW34295,HCP5,基因型 ：  GG   GT    TT   
+779,QYW68434,--,基因型 ：  C C   CT    TT       
+780,QYW55700,LOC105375015,基因型 ：  C C   CT    TT 
+781,QYW34295,HCP5,基因型 ：  GG   GT    TT   
+782,QYW79432,CX3CR1,基因型 ：  AA   A G   GG 
+783,QYW68434,--,基因型 ：  C C   CT    TT       
+784,QYW77105,BRSK1,基因型 ：  C C   CT    TT 
+785,QYW65131,MCM8,基因型 ：  AA   A G   GG  
+786,QYW60140,UIMC1,基因型 ：  GG   GT    TT 
+787,QYW33798,--,基因型 ：   TT    GT   GG      
+788,QYW40637,LIN28B,基因型 ：  GG   GT    TT 
+789,QYW42713,--,基因型 ：  C C   CT    TT      
+790,QYW92065,GCK,基因型 ：  AA   A G   GG     
+791,QYW49116,TCF7L2,基因型 ：  C C   CT    TT 
+792,QYW65793,FADS2,基因型 ：  AA   A G   GG   
+793,QYW51828,CACNA1S,基因型 ：  C C   CT    TT 
+794,QYW13322,LOC101928278,基因型 ：  C C   CT    TT 
+795,QYW57809,ADK,基因型 ：  AA   A G   GG       
+796,QYW59379,--,基因型 ：  AA   A G   GG        
+797,QYW79672,ABCC11,基因型 ：  C C   CT    TT 
+798,QYW51675,PKD1L3,基因型 ：  AA   A G   GG   
+799,QYW86893,ADIPOQ,基因型 ：  AA   A G   GG 
+800,QYW22156,CDH13,基因型 ：  GG   GT    TT 
+801,QYW42489,--,基因型 ：  AA   A G   GG        
+802,QYW48466,TAS2R38,基因型 ：  C C   CT    TT 
+803,QYW19382,PRH1,基因型 ：  AA   A G   GG     
+804,QYW44122,TAS2R38,基因型 ：  C C   C G   GG 
+805,QYW36957,--,基因型 ：  C C   CT    TT       
+806,QYW47939,HMGA2,基因型 ：  C C   CT    TT 
+807,QYW47155,ESR1,基因型 ：  AA   A G   GG    
+808,QYW51194,UQCC1,基因型 ：  C C   CT    TT 
+809,QYW28335,TP53,基因型 ：  C C   C G   GG  
+810,QYW46498,CFH,基因型 ：  C C   CT    TT    
+811,QYW11314,APOC3,基因型 ：  AA   A C   C C 
+812,QYW24582,AKT1,基因型 ：  C C   C G   GG   
+813,QYW63981,CETP,基因型 ：  AA   A G   GG    
+814,QYW35578,--,基因型 ：  C C   CT    TT      
+815,QYW62181,TGFB1,基因型 ：  AA   A C   C C 
+816,QYW79924,CHRM1,基因型 ：  AA   A C   C C 
+817,QYW59205,ANKK1,基因型 ：  C C   CT    TT 
+818,QYW24452,TYR,基因型 ：  AA   A C   C C   
+819,QYW38399,BNC2,基因型 ：  C C   CT    TT  
+820,QYW36424,OCA2,基因型 ：  AA   A G   GG   
+821,QYW37100,--,基因型 ：  AA   A G   GG       
+822,QYW18474,--,基因型 ：  C C   CT    TT        
+823,QYW60464,--,基因型 ：  AA   A C   C C       
+824,QYW56879,C11orf49,基因型 ：  AA   A G   GG 
+825,QYW70772,--,基因型 ：  AA   A G   GG        
+826,QYW99256,IL10,基因型 ：  AA   A G   GG  
+827,QYW80869,HLA-DRA,基因型 ：  GG   GT    TT 
+828,QYW71303,--,基因型 ：  C C   CT    TT       
+829,QYW26618,GHSR,基因型 ：  C C   CT    TT 
+830,QYW44822,FTO,基因型 ：  AA   A T     TT    
+831,QYW40103,PPARG,基因型 ：  C C   C G   GG    
+832,QYW12502,APOA2,基因型 ：  C C   CT    TT 
+833,QYW44207,APOA5,基因型 ：  AA   A G   GG  
+834,QYW30423,VDR,基因型 ：  AA   A G   GG     
+835,QYW61242,CYP24A1,基因型 ：  AA   A G   GG 
+836,QYW62259,TPMT,基因型 ：  AA   A G   GG     
+837,QYW28549,TPMT,基因型 ：  AA   A G   GG     
+838,QYW91988,TPMT,基因型 ：  GG   C G   C C    
+839,QYW69193,ADRB1,基因型 ：  C C   C G   GG 
+840,QYW78638,PRKAA2,基因型 ：  AA   A G   GG  
+841,QYW45015,LEPR,基因型 ：  GG   A G   AA   
+842,QYW91671,SCN2A,基因型 ：  GG   AA   A G   
+843,QYW82133,ABAT,基因型 ：  C C   CT    TT 
+844,QYW59205,ANKK1,基因型 ：  AA   A G   GG 
+845,QYW56683,SCN2A,基因型 ：  A G   GG   AA  
+846,QYW82460,PPARA,基因型 ：  C C   CT    TT 
+847,QYW86862,SP1,基因型 ：   TT    C C   CT    
+848,QYW13457,KCNJ11,基因型 ：  C C   CT    TT 
+849,QYW35079,AMHR2,基因型 ：  GG   AA   A G 
+850,QYW15674,FDPS,基因型 ：  GG   AA   A G     
+851,QYW16854,L1B,基因型 ：  AA   A G   GG      
+852,QYW79012,POR,基因型 ：   TT    C C   CT   
+853,QYW33480,NOD2,基因型 ：  CT    TT    C C  
+854,QYW29734,KCNQ1,基因型 ：  AA   A C   C C 
+855,QYW58704,CYP3A4,基因型 ：  GG   A G   AA 
+856,QYW79920,PPARA,基因型 ：  GG   A G   AA  
+857,QYW49477,--,基因型 ：  C C   CT    TT      
+858,QYW88340,CYP3A5,基因型 ：  C C   CT    TT 
+859,QYW65999,HMGCR,基因型 ：   TT    GT   GG 
+860,QYW65457,HMGCR,基因型 ：  AA   A T     TT 
+861,QYW69952,SLCO1B1,基因型 ：   TT    CT   C C 
+862,QYW16881,SLCO1B1,基因型 ：   TT    CT   C C 
+863,QYW47526,CYP2D6,基因型 ：  AA   A G   GG 
+864,QYW82154,CNTF,基因型 ：  GG   AA   A G   
+865,QYW15837,CELF4,基因型 ：  C C   CT    TT 
+866,QYW66241,NRG3,基因型 ：  GT    TT    GG  
+867,QYW36802,NUBPL,基因型 ：  GG   A G   AA 
+868,QYW16854,L1B,基因型 ：  GG   A G   AA      
+869,QYW27769,HTR2C,基因型 ：  GG   C G   C C 
+870,QYW40395,DRD3,基因型 ：  AA   A G   GG    
+871,QYW42203,DRD2,基因型 ：   TT    CT   C C  
+872,QYW59205,ANKK1,基因型 ：  GG   A G   AA 
+873,QYW96793,AKT1,基因型 ：   TT    C C   CT 
+874,QYW50102,HRH4,基因型 ：  GG   GT    TT   
+875,QYW72137,--,基因型 ：  AA   A G   GG       
+876,QYW96875,DRD3,基因型 ：  C C   CT    TT  
+877,QYW76761,HTR2A,基因型 ：  C C   CT    TT   
+878,QYW27920,HTR2A,基因型 ：  GG   AA   A G 
+879,QYW67021,ADD1,基因型 ：  GT    TT    GG   
+880,QYW68165,NPPA,基因型 ：  GG   AA   A G   
+881,QYW53475,UGT1A5,基因型 ：  C C   C G   GG 
+882,QYW18483,CYP2C9,基因型 ：  AA   A C   C C 
+883,QYW75073,UGT1A5,基因型 ：  C C   CT    TT 
+884,QYW38993,ABCC1,基因型 ：   TT    C C   CT 
+885,QYW70162,APOC3,基因型 ：  CT    TT    C C 
+886,QYW96080,CYP2C19,基因型 ：  GG   A G   AA 
+887,QYW92158,APOC3,基因型 ：  C G   GG   C C 
+888,QYW76499,--,基因型 ：   TT    CT   C C     
+889,QYW81658,PSORS1C3,基因型 ：  C C   A C   AA 
+890,QYW44817,POU5F1,基因型 ：  AA   A G   GG 
+891,QYW37947,POU5F1,基因型 ：   TT    CT   C C 
+892,QYW75892,PSORS1C1,基因型 ：  GG   A G   AA 
+893,QYW31959,--,基因型 ：   TT    C C   CT    
+894,QYW55240,EXO1,基因型 ：  AA   A G   GG 
+895,QYW98956,TYMP,基因型 ：  GG   AA   A G  
+896,QYW43380,ERCC1,基因型 ：  AA   A G   GG 
+897,QYW93432,--,基因型 ：  C C   AA   A C     
+898,QYW65924,--,基因型 ：  A G   GG   AA      
+899,QYW96258,DPYD,基因型 ：  GG   AA   A G   
+900,QYW78504,UMPS,基因型 ：  C G   GG   C C    
+901,QYW67726,MTHFR,基因型 ：  AA   A C   C C 
+902,QYW56309,DPYD,基因型 ：  GG   A G   AA    
+903,QYW10147,DPYD,基因型 ：  C C   A T     TT 
+904,QYW47148,DPYD,基因型 ：  AA   A C   C C  
+905,QYW67783,DPYD,基因型 ：   TT    A T    AA 
+906,QYW65799,AKT1,基因型 ：  AA   A C   C C  
+907,QYW43380,ERCC1,基因型 ：  GG   A G   AA 
+908,QYW26519,--,基因型 ：  C C   CT    TT     
+909,QYW18100,SLC19A1,基因型 ：  GG   AA   A G 
+910,QYW28890,SOX10,基因型 ：  C C   GG   C G 
+911,QYW52230,EF4E2,基因型 ：  AA   A G   GG 
+912,QYW67726,MTHFR,基因型 ：  GG   GT    TT 
+913,QYW56857,MTHFR,基因型 ：  AA   A G   GG 
+914,QYW53429,BCL2,基因型 ：  C C   CT    TT  
+915,QYW65666,OPRM1,基因型 ：  GG   GT    TT 
+916,QYW30847,ALDH1A1,基因型 ：    DD   D  
+917,QYW79433,--,基因型 ：  AA   GG   A G       
+918,QYW35841,DSCAM,基因型 ：  AA   A G   GG  
+919,QYW10269,ADRB2,基因型 ：  C G   GG   C C  
+920,QYW69193,ADRB1,基因型 ：  C C   C G   GG 
+921,QYW40796,HSPA1A,基因型 ：   TT    C C   CT 
+922,QYW91671,SCN2A,基因型 ：  GG   A G   AA   
+923,QYW78888,HSPA1L,基因型 ：  A G   GG   AA 
+924,QYW38420,GABRA1,基因型 ：  GG   A G   AA 
+925,QYW56683,SCN2A,基因型 ：  GG   AA   A G  
+926,QYW27627,SCN1A,基因型 ：  C C   CT    TT 
+927,QYW66405,BAG6,基因型 ：   TT    C C   CT 
+928,QYW32730,EGFR,基因型 ：  GG   GT    TT 
+929,QYW76015,EGFR,基因型 ：  C C   CT    TT  
+930,QYW36171,EGFR,基因型 ：  GT    TT    GG 
+931,QYW97301,EGFR,基因型 ：  AA   A C   C C  
+932,QYW87988,SLC39A14,基因型 ：  C C   CT    TT 
+933,QYW35354,GNB3,基因型 ：   TT    C C   CT 
+934,QYW34494,BDNF,基因型 ：  CT    TT    C C 
+935,QYW18465,C11orf65,基因型 ：  AA   A C   C C 
+936,QYW88368,SLC47A2,基因型 ：  A G   GG   AA 
+937,QYW82460,PPARA,基因型 ：  C C   CT    TT 
+938,QYW52443,SLC47A1,基因型 ：  C C   CT    TT 
+939,QYW22170,SLC47A1,基因型 ：  AA   A G   GG 
+940,QYW64917,SLC22A1,基因型 ：  DD   D     
+941,QYW53191,--,基因型 ：  GG   AA   A G      
+942,QYW14953,CDKN2B-AS1,基因型 ：  C C   CT    TT 
+943,QYW90943,F2,基因型 ：  AA   A G   GG       
+944,QYW90354,F5,基因型 ：  C C   CT    TT      
+945,QYW69166,RRM1,基因型 ：  AA   A G   GG    
+946,QYW15779,RRM1,基因型 ：  AA   A C   C C   
+947,QYW65133,RRM1,基因型 ：  C C   CT    TT  
+948,QYW33472,DAPK1,基因型 ：  GG   GT    TT  
+949,QYW33417,CASP7,基因型 ：  GG   AA   A G 
+950,QYW39781,--,基因型 ：  AA   A G   GG       
+951,QYW38725,CASP7,基因型 ：  AA   A C   C C 
+952,QYW12243,RRM1,基因型 ：  AA   A C   C C  
+953,QYW89536,ALG10,基因型 ：  AA   A G   GG 
+954,QYW63669,CDA,基因型 ：  C C   AA   A C    
+955,QYW26683,CASP7,基因型 ：  C G   GG   C C 
+956,QYW19101,CASP7,基因型 ：  C C   CT    TT  
+957,QYW78635,DCK,基因型 ：  C C   CT    TT    
+958,QYW13092,CDA,基因型 ：  A G   GG   AA     
+959,QYW76015,EGFR,基因型 ：  C C   CT    TT  
+960,QYW33357,ABCG2,基因型 ：  C C   A C   AA 
+961,QYW21657,EGFR,基因型 ：  GG   AA   A G  
+962,QYW36171,EGFR,基因型 ：  GT    TT    GG 
+963,QYW97301,EGFR,基因型 ：  AA   A C   C C  
+964,QYW55444,MAP3K1,基因型 ：  GG   AA   A G 
+965,QYW73159,RHBDF2,基因型 ：  GG   AA   A G 
+966,QYW87989,OPRM1,基因型 ：  AA   A G   GG   
+967,QYW96089,ABCB1,基因型 ：   TT    C C   CT 
+968,QYW36049,CYP2C8,基因型 ：  C C   CT    TT 
+969,QYW32728,MPDH2,基因型 ：  AA   A G   GG 
+970,QYW19839,UGT1A10,基因型 ：  C C   CT    TT 
+971,QYW37072,L10,基因型 ：  GG   GT    TT     
+972,QYW75211,MPDH1,基因型 ：   TT    CT   C C 
+973,QYW66812,SLC12A3,基因型 ：  GG   C G   C C 
+974,QYW67021,ADD1,基因型 ：  GG   GT    TT    
+975,QYW51620,NPPA,基因型 ：  C C   CT    TT   
+976,QYW35354,GNB3,基因型 ：  C C   CT    TT 
+977,QYW30423,VDR,基因型 ：  GG   A G   AA    
+978,QYW43898,CYP3A4,基因型 ：  C C   CT    TT 
+979,QYW22723,GATA3,基因型 ：  C C   A C   AA 
+980,QYW30439,CTLA4,基因型 ：  AA   A G   GG 
+981,QYW93289,NR3C2,基因型 ：  AA   A G   GG 
+982,QYW68379,SLC19A1,基因型 ：  GG   AA   A G 
+983,QYW90674,GGH,基因型 ：  AA   A G   GG     
+984,QYW24372,DHFR,基因型 ：  GG   AA   A G  
+985,QYW56857,MTHFR,基因型 ：  GG   AA   A G 
+986,QYW64468,SLC19A1,基因型 ：   TT    GG   GT 
+987,QYW23288,SLC19A1,基因型 ：  C C   CT    TT 
+988,QYW17527,CYP1B1,基因型 ：  C G   GG   C C 
+989,QYW45557,SLCO1B3,基因型 ：  AA   A G   GG 
+990,QYW38725,CASP7,基因型 ：  AA   A C   C C 
+991,QYW44044,--,基因型 ：  C C   C G   GG      
+992,QYW26683,CASP7,基因型 ：  C G   GG   C C 
+993,QYW19101,CASP7,基因型 ：  C C   CT    TT  
+994,QYW20599,CYP2B6,基因型 ：   TT    CT   C C 
+995,QYW30945,CYP2B6,基因型 ：   TT    CT   C C 
+996,QYW31321,TRAF3P2-AS1,基因型 ：  GG   C C   C G 
+997,QYW20894,--,基因型 ：  C C   CT    TT      
+998,QYW10346,RGS4,基因型 ：   TT    GG   GT     
+999,QYW21009,--,基因型 ：  C C   CT    TT     
+1000,QYW17749,DRD2,基因型 ：  AA   A G   GG    
+1001,QYW16460,SV2C,基因型 ：  C C   CT    TT  
+1002,QYW27769,HTR2C,基因型 ：  C C   C G   GG 
+1003,QYW59205,ANKK1,基因型 ：  C C   CT    TT 
+1004,QYW85785,DRD2,基因型 ：  C C   A C   AA    
+1005,QYW10346,RGS4,基因型 ：   TT    GT   GG     
+1006,QYW94344,HTR2C,基因型 ：  CT    TT    C C 
+1007,QYW76178,SCARB1,基因型 ：   TT    C C   CT 
+1008,QYW46398,APOA4,基因型 ：  A G   GG   AA 
+1009,QYW57622,HTR2C,基因型 ：  C C   C G   GG 
+1010,QYW96875,DRD3,基因型 ：  C C   CT    TT  
+1011,QYW74888,APOE,基因型 ：   TT    C C   CT   
+1012,QYW53068,HTR2A,基因型 ：  AA   A G   GG 
+1013,QYW43380,ERCC1,基因型 ：  GG   A G   AA 
+1014,QYW37728,ERCC2,基因型 ：   TT    GT   GG 
+1015,QYW85413,GSTP1,基因型 ：  GG   A G   AA   
+1016,QYW96258,DPYD,基因型 ：  GG   AA   A G   
+1017,QYW45368,PARD3B,基因型 ：  C C   CT    TT 
+1018,QYW62583,CYP2C19,基因型 ：  C C   CT    TT 
+1019,QYW16854,L1B,基因型 ：  GG   AA   A G      
+1020,QYW38437,CYP2C19,基因型 ：  AA   A G   GG 
+1021,QYW96080,CYP2C19,基因型 ：  GG   A G   AA 
+1022,QYW67261,CYP2C19,基因型 ：  GG   A G   AA 
+1023,QYW34985,ABCC1,基因型 ：  CT    TT    C C 
+1024,QYW78947,SLCO2B1,基因型 ：  GG   AA   A G 
+1025,QYW89526,CTNNA3,基因型 ：  AA   A G   GG 
+1026,QYW26089,LTA4H,基因型 ：  AA   A G   GG 
+1027,QYW67054,--,基因型 ：  GT    TT    GG      
+1028,QYW14990,RRAS2,基因型 ：  A G   GG   AA 
+1029,QYW42883,CYP2D6,基因型 ：  C C   CT    TT 
+1030,QYW96125,ESR2,基因型 ：  CT    TT    C C 
+1031,QYW40744,ESR1,基因型 ：  AA   A G   GG     
+1032,QYW53892,ACE,基因型 ：  AA   A G   GG   
+1033,QYW67021,ADD1,基因型 ：  GG   GT    TT    
+1034,QYW53475,UGT1A5,基因型 ：  GG   C G   C C 
+1035,QYW75073,UGT1A5,基因型 ：   TT    CT   C C 
+1036,QYW56749,UGT1A5,基因型 ：  GG   C G   C C 
+1037,QYW81261,TPA,基因型 ：  C C   AA   A C    
+1038,QYW62259,TPMT,基因型 ：  AA   A G   GG    
+1039,QYW28549,TPMT,基因型 ：  GG   A G   AA    
+1040,QYW91988,TPMT,基因型 ：  C C   C G   GG   
+1041,QYW22723,GATA3,基因型 ：  C C   A C   AA 
+1042,QYW69193,ADRB1,基因型 ：  C C   C G   GG 
+1043,QYW55452,CYP2C9,基因型 ：  C C   CT    TT 
+1044,QYW74191,PTGS2,基因型 ：  C C   C G   GG   
+1045,QYW93574,--,基因型 ：  C C   CT    TT      
+1046,QYW30377,ABCB1,基因型 ：  GG   A G   AA  
+1047,QYW63233,ADM,基因型 ：  AA   A C   C C   
+1048,QYW99175,MDGA2,基因型 ：  C C   AA   A C 
+1049,QYW12801,HTR3B,基因型 ：  C C   AA   A C  
+1050,QYW52338,ABCB1,基因型 ：  C C   CT    TT 
+1051,QYW57954,FKBP5,基因型 ：  C C   CT    TT 
+1052,QYW60070,ABCB1,基因型 ：  C C   CT    TT 
+1053,QYW27920,HTR2A,基因型 ：  AA   A G   GG 
+1054,QYW46495,HTR2A,基因型 ：  C C   CT    TT  
+1055,QYW47526,CYP2D6,基因型 ：  C C   CT    TT 
+1056,QYW60070,ABCB1,基因型 ：  C C   CT    TT 
+1057,QYW42883,CYP2D6,基因型 ：  A G   GG   AA  
+1058,QYW76761,HTR2A,基因型 ：  CT    TT    C C  
+1059,QYW27769,HTR2C,基因型 ：  GG   C C   C G 
+1060,QYW59205,ANKK1,基因型 ：  C C   CT    TT 
+1061,QYW56857,MTHFR,基因型 ：  C C   CT    TT 
+1062,QYW61673,COMT,基因型 ：  AA   A G   GG   
+1063,QYW28335,TP53,基因型 ：  C C   C G   GG 
+1064,QYW28549,TPMT,基因型 ：  GG   A G   AA    
+1065,QYW91988,TPMT,基因型 ：  GG   C C   C G   
+1066,QYW90037,GABRP,基因型 ：   TT    C C   CT 
+1067,QYW62605,HTR1B,基因型 ：  A T     TT    AA 
+1068,QYW57954,FKBP5,基因型 ：  C C   CT    TT 
+1069,QYW80037,GABRA6,基因型 ：  AA   A G   GG 
+1070,QYW25079,GABRQ,基因型 ：   TT    AA   A T 
+1071,QYW40800,ABCA1,基因型 ：  C G   GG   C C 
+1072,QYW65457,HMGCR,基因型 ：  AA   A T     TT 
+1073,QYW24702,HTR7,基因型 ：  C C   CT    TT  
+1074,QYW18544,HTR3B,基因型 ：  AA   A G   GG   
+1075,QYW74888,APOE,基因型 ：  CT    TT    C C   
+1076,QYW96875,DRD3,基因型 ：   TT    C C   CT 
+1077,QYW62583,CYP2C19,基因型 ：  C C   CT    TT 
+1078,QYW51172,PEAR1,基因型 ：  C C   CT    TT 
+1079,QYW20074,PEAR1,基因型 ：  C C   CT    TT  
+1080,QYW59177,PEAR1,基因型 ：  A C   C C   AA  
+1081,QYW62532,PEAR1,基因型 ：  C G   GG   C C 
+1082,QYW17710,ESR1,基因型 ：  CT    TT    C C 
+1083,QYW43397,CYP19A1,基因型 ：  AA   A C   C C 
+1084,QYW40744,ESR1,基因型 ：  GG   AA   A G     
+1085,QYW22723,GATA3,基因型 ：  C C   A C   AA 
+1086,QYW91397,CYP1A2,基因型 ：  AA   A C   C C 
+1087,QYW40744,ESR1,基因型 ：  AA   A G   GG     
+1088,QYW93574,--,基因型 ：  C C   CT    TT      
+1089,QYW99175,MDGA2,基因型 ：  C C   AA   A C 
+1090,QYW60070,ABCB1,基因型 ：  A G   GG   AA 
+1091,QYW52471,HTR1A,基因型 ：  C C   C G   GG 
+1092,QYW76761,HTR2A,基因型 ：   TT    C C   CT  
+1093,QYW28335,TP53,基因型 ：  C C   C G   GG 
+1094,QYW55240,EXO1,基因型 ：  AA   A G   GG 
+1095,QYW17527,CYP1B1,基因型 ：  C G   GG   C C 
+1096,QYW43380,ERCC1,基因型 ：  GG   A G   AA 
+1097,QYW10545,GALNT14,基因型 ：  GG   GT    TT 
+1098,QYW18100,SLC19A1,基因型 ：  GG   AA   A G 
+1099,QYW37728,ERCC2,基因型 ：  GT    TT    GG 
+1100,QYW85413,GSTP1,基因型 ：  GG   AA   A G   
+1101,QYW45368,PARD3B,基因型 ：  C C   CT    TT 
+1102,QYW39997,NQO1,基因型 ：  AA   A G   GG  
+1103,QYW10147,DPYD,基因型 ：  C C   T C    TT  
+1104,QYW67783,DPYD,基因型 ：   TT    A T    AA 
+1105,QYW34295,HCP5,基因型 ：  GT    TT    GG 
+1106,QYW17678,REEP5,基因型 ：  AA   A G   GG 
+1107,QYW82857,REEP5,基因型 ：  A G   GG   AA  
+1108,QYW10521,CRHR1,基因型 ：  C C   AA   A C 
+1109,QYW55336,GSK3B,基因型 ：  GG   AA   A G 
+1110,QYW94514,--,基因型 ：  C C   C G   GG      
+1111,QYW91406,KCNJ1,基因型 ：  C C   AA   A C 
+1112,QYW71656,PRKCA,基因型 ：  AA   A G   GG  
+1113,QYW57924,ERCC6L2,基因型 ：  GG   A G   AA 
+1114,QYW13225,GPR83,基因型 ：  AA   A G   GG  
+1115,QYW99295,NEDD4L,基因型 ：  A G   GG   AA 
+1116,QYW37796,KCNJ1,基因型 ：  AA   A T     TT 
+1117,QYW10570,TCF7L2,基因型 ：  C C   CT    TT 
+1118,QYW74826,ABCB1,基因型 ：   TT    CT   C C 
+1119,QYW26623,SLC19A1,基因型 ：  CT    TT    C C 
+1120,QYW25675,SLCO1B1,基因型 ：  C C   CT    TT 
+1121,QYW78299,ABCB1,基因型 ：  AA   A G   GG  
+1122,QYW90674,GGH,基因型 ：  GG   A G   AA     
+1123,QYW17787,ABCG2,基因型 ：  C C   CT    TT 
+1124,QYW89042,--,基因型 ：  C C   CT    TT      
+1125,QYW72964,--,基因型 ：  C C   CT    TT      
+1126,QYW52167,ABCG2,基因型 ：  AA   GG   A G 
+1127,QYW67726,MTHFR,基因型 ：   TT    GT   GG 
+1128,QYW56857,MTHFR,基因型 ：  GG   AA   A G 
+1129,QYW56487,NOS3,基因型 ：  CT    TT    C C  
+1130,QYW32981,ABCB1,基因型 ：  C C    TT    CT 
+1131,QYW12627,PTGS1,基因型 ：  AA   A G   GG   
+1132,QYW12614,TGA2,基因型 ：  C C   CT    TT  
+1133,QYW65613,PEAR1,基因型 ：  GG   A G   AA  
+1134,QYW62583,CYP2C19,基因型 ：  CT    TT    C C 
+1135,QYW21241,P2RY12,基因型 ：  AA   A G   GG 
+1136,QYW38437,CYP2C19,基因型 ：  AA   A G   GG 
+1137,QYW80668,CYP2C19,基因型 ：   TT    CT   C C 
+1138,QYW96080,CYP2C19,基因型 ：  GG   AA   A G 
+1139,QYW67261,CYP2C19,基因型 ：  GG   AA   A G 
+1140,QYW99228,TGB3,基因型 ：   TT    C C   CT 
+1141,QYW77440,PON1,基因型 ：  C C   CT    TT   
+1142,QYW35316,P2RY12,基因型 ：  GG   A G   AA 
+1143,QYW30377,ABCB1,基因型 ：  GG   A G   AA  
+1144,QYW20454,HTR3A,基因型 ：   TT    CT   C C 
+1145,QYW17749,DRD2,基因型 ：  AA   A G   GG    
+1146,QYW27769,HTR2C,基因型 ：  GG   C C   C G 
+1147,QYW59205,ANKK1,基因型 ：  GG   A G   AA 
+1148,QYW59117,HTR3A,基因型 ：  GG   A G   AA   
+1149,QYW20617,RGS2,基因型 ：  GG   C C   C G   
+1150,QYW35354,GNB3,基因型 ：  C C   CT    TT 
+1151,QYW33882,DRD2,基因型 ：  AA   A G   GG    
+1152,QYW11724,ABCB1,基因型 ：  AA   A G   GG 
+1153,QYW18483,CYP2C9,基因型 ：  AA   A C   C C 
+1154,QYW47812,STK39,基因型 ：   TT    GG   GT 
+1155,QYW12660,ADRB2,基因型 ：  GG   A G   AA 
+1156,QYW23875,--,基因型 ：  AA   A G   GG      
+1157,QYW21463,--,基因型 ：  AA   A G   GG      
+1158,QYW28368,CLOCK,基因型 ：  AA   A G   GG 
+1159,QYW52906,CRHR2,基因型 ：  AA   A G   GG 
+1160,QYW32152,COL22A1,基因型 ：   TT    C C   CT 
+1161,QYW12873,XRCC5,基因型 ：  A G   GG   AA 
+1162,QYW82989,CYP4B1,基因型 ：  C C   CT    TT 
+1163,QYW44711,CHST3,基因型 ：  C C   CT    TT 
+1164,QYW65999,HMGCR,基因型 ：   TT    GG   GT 
+1165,QYW44207,APOA5,基因型 ：  AA   A G   GG 
+1166,QYW71330,CETP,基因型 ：  A G   AA   GG  
+1167,QYW88340,CYP3A5,基因型 ：  C C   CT    TT 
+1168,QYW38993,ABCC1,基因型 ：   TT    C C   CT 
+1169,QYW69952,SLCO1B1,基因型 ：   TT    CT   C C 
+1170,QYW86067,ABCC2,基因型 ：  GG   A G   AA 
+1171,QYW37039,CYP3A4,基因型 ：  C C   CT    TT 
+1172,QYW43898,CYP3A4,基因型 ：  A G   GG   AA 
+1173,QYW88340,CYP3A5,基因型 ：  AA   A G   GG  
+1174,QYW74826,ABCB1,基因型 ：   TT    CT   C C 
+1175,QYW69552,EPHX1,基因型 ：  C C   CT    TT 
+1176,QYW15835,LG3,基因型 ：   TT    C C   CT  
+1177,QYW59662,RAD52,基因型 ：  A G   AA   GG  
+1178,QYW78299,ABCB1,基因型 ：  AA   A G   GG  
+1179,QYW43380,ERCC1,基因型 ：  AA   GG   A G 
+1180,QYW58515,SLC22A16,基因型 ：  AA   A G   GG 
+1181,QYW56857,MTHFR,基因型 ：  GG   A G   AA 
+1182,QYW22415,NAT2,基因型 ：  C C    TT    CT 
+1183,QYW97529,MTR,基因型 ：  AA   A G   GG    
+1184,QYW38307,CYP2E1,基因型 ：  C C   C G   GG 
+1185,QYW57900,CYP2B6,基因型 ：  AA   A G   GG 
+1186,QYW98319,ABCB1,基因型 ：   TT    CT   C C 
+1187,QYW39438,ABCC4,基因型 ：  GG   GT    TT 
+1188,QYW81992,NOS1AP,基因型 ：  GG   GT    TT 
+1189,QYW30794,SLC30A8,基因型 ：  CT    TT    C C 
+1190,QYW17647,GF2BP2,基因型 ：  AA   C C   A C 
+1191,QYW11043,NEUROD1,基因型 ：  CT    TT    C C 
+1192,QYW74318,KCNQ1,基因型 ：  CT    TT    C C 
+1193,QYW29734,KCNQ1,基因型 ：  C C   A C   AA 
+1194,QYW41271,TCF7L2,基因型 ：   TT    CT   C C 
+1195,QYW84960,GF2BP2,基因型 ：  GT    TT    GG 
+1196,QYW13457,KCNJ11,基因型 ：  C C   CT    TT 
+1197,QYW40744,ESR1,基因型 ：  A G   GG   AA     
+1198,QYW26623,SLC19A1,基因型 ：   TT    CT   C C 
+1199,QYW43380,ERCC1,基因型 ：  GG   A G   AA 
+1200,QYW37728,KLC3,基因型 ：  GT    TT    GG  
+1201,QYW96258,DPYD,基因型 ：  GG   AA   A G   
+1202,QYW67726,MTHFR,基因型 ：  GG   GT    TT 
+1203,QYW12288,SHMT1,基因型 ：  AA   A G   GG  
+1204,QYW33357,ABCG2,基因型 ：   TT    GT   GG 
+1205,QYW18483,CYP2C9,基因型 ：  AA   A C   C C 
+1206,QYW55452,CYP2C9,基因型 ：  C C   CT    TT 
+1207,QYW18483,CYP2C9,基因型 ：  AA   A C   C C 
+1208,QYW28335,TP53,基因型 ：  C C   C G   GG 
+1209,QYW17527,CYP1B1,基因型 ：  C G   GG   C C 
+1210,QYW37150,CYP2C8,基因型 ：  C C   CT    TT 
+1211,QYW38725,CASP7,基因型 ：  AA   A C   C C 
+1212,QYW26683,CASP7,基因型 ：  C G   GG   C C 
+1213,QYW19101,CASP7,基因型 ：  C C   CT    TT  
+1214,QYW55444,MAP3K1,基因型 ：  GG   AA   A G 
+1215,QYW66846,DBH,基因型 ：  CT    TT    C C  
+1216,QYW87989,OPRM1,基因型 ：  A G   GG   AA   
+1217,QYW57272,OPRD1,基因型 ：  GG   AA   A G 
+1218,QYW87989,OPRM1,基因型 ：  AA   A G   GG   
+1219,QYW81992,NOS1AP,基因型 ：   TT    GT   GG 
+1220,QYW95128,--,基因型 ：  C C   C G   GG     
+1221,QYW56105,NR1H3,基因型 ：  A G   GG   AA 
+1222,QYW66715,KCNMB1,基因型 ：  CT    TT    C C 
+1223,QYW35313,NR1H3,基因型 ：  AA   A G   GG 
+1224,QYW66511,ADRB1,基因型 ：  AA   A G   GG 
+1225,QYW69193,ADRB1,基因型 ：  GG   C G   C C 
+1226,QYW74191,PTGS2,基因型 ：  C C   C G   GG  
+1227,QYW62113,GRK4,基因型 ：  CT    TT    C C 
+1228,QYW66511,ADRB1,基因型 ：  AA   A G   GG 
+1229,QYW69193,ADRB1,基因型 ：  C C   C G   GG 
+1230,QYW42883,CYP2D6,基因型 ：  C C   CT    TT 
+1231,QYW38437,CYP2C19,基因型 ：  AA   A G   GG 
+1232,QYW67261,CYP2C19,基因型 ：  GG   A G   AA 
+1233,QYW60513,CYP2C19,基因型 ：  C C   CT    TT 
+1234,QYW17678,REEP5,基因型 ：  AA   A G   GG 
+1235,QYW82857,REEP5,基因型 ：  A G   GG   AA  
+1236,QYW22437,SRP19,基因型 ：  A G   GG   AA 
+1237,QYW69552,EPHX1,基因型 ：  C C   CT    TT 
+1238,QYW18483,CYP2C9,基因型 ：  AA   A C   C C 
+1239,QYW91671,SCN2A,基因型 ：  GG   A G   AA   
+1240,QYW55452,CYP2C9,基因型 ：  C C   CT    TT 
+1241,QYW42231,EPHX1,基因型 ：  AA   A G   GG 
+1242,QYW56683,SCN2A,基因型 ：  GG   AA   A G  
+1243,QYW71668,PTPRC,基因型 ：  A G   GG   AA  
+1244,QYW56807,L23R,基因型 ：  AA   A G   GG   
+1245,QYW99925,SLCO1C1,基因型 ：  AA   A G   GG 
+1246,QYW75139,CYP11B2,基因型 ：  AA   A G   GG 
+1247,QYW74667,AGT,基因型 ：  C C   CT    TT     
+1248,QYW85113,AGTR1,基因型 ：   TT    C C   CT 
+1249,QYW85413,GSTP1,基因型 ：  AA   A G   GG   
+1250,QYW39997,NQO1,基因型 ：  A G   GG   AA  
+1251,QYW44909,MCPH1,基因型 ：  C C   CT    TT 
+1252,QYW20362,RYR2,基因型 ：  AA   A G   GG    
+1253,QYW69952,SLCO1B1,基因型 ：   TT    C C   CT 
+1254,QYW87900,CYP2C8,基因型 ：   TT    C C   CT 
+1255,QYW78299,ABCB1,基因型 ：  A G   GG   AA  
+1256,QYW37150,CYP2C8,基因型 ：  GG   AA   A G 
+1257,QYW88340,CYP3A5,基因型 ：  AA   A G   GG  
+1258,QYW49116,TCF7L2,基因型 ：  C C   CT    TT 
+1259,QYW30377,ABCB1,基因型 ：  GG   A G   AA  
+1260,QYW51126,GLDC,基因型 ：  C G   GG   C C 
+1261,QYW74104,PAPLN,基因型 ：  C C   CT    TT  
+1262,QYW52338,ABCB1,基因型 ：  C C   CT    TT 
+1263,QYW21459,--,基因型 ：   TT    GT   GG     
+1264,QYW60021,ABCB1,基因型 ：   TT    C C   CT 
+1265,QYW57954,FKBP5,基因型 ：  CT    TT    C C 
+1266,QYW67375,--,基因型 ：  A C   C C   AA      
+1267,QYW98161,COL26A1,基因型 ：  C C   CT    TT 
+1268,QYW60070,ABCB1,基因型 ：  AA   A G   GG 
+1269,QYW15422,--,基因型 ：  C C   CT    TT      
+1270,QYW27920,HTR2A,基因型 ：  AA   A G   GG 
+1271,QYW67726,MTHFR,基因型 ：  GG   GT    TT 
+1272,QYW60359,VEGFA,基因型 ：  GG   C G   C C 
+1273,QYW67694,VEGFA,基因型 ：  CT    TT    C C 
+1274,QYW45015,LEPR,基因型 ：  AA   A G   GG   
+1275,QYW40800,ABCA1,基因型 ：  C G   GG   C C 
+1276,QYW26541,SCAP,基因型 ：  C C   CT    TT  
+1277,QYW68140,GATM,基因型 ：  C C   CT    TT 
+1278,QYW93203,--,基因型 ：   TT    C C   CT    
+1279,QYW65999,HMGCR,基因型 ：   TT    GG   GT 
+1280,QYW65457,HMGCR,基因型 ：  AA   A T     TT 
+1281,QYW34906,--,基因型 ：  AA   A G   GG      
+1282,QYW62605,HTR1B,基因型 ：  A T     TT    AA 
+1283,QYW57954,FKBP5,基因型 ：  C C   CT    TT 
+1284,QYW66521,CLOCK,基因型 ：  AA   A G   GG 
+1285,QYW94194,NR1D1,基因型 ：  CT    TT    C C 
+1286,QYW60138,CACNG2,基因型 ：  C C   CT    TT 
+1287,QYW12627,PTGS1,基因型 ：  AA   A G   GG   
+1288,QYW67363,HLA-DPA1,基因型 ：  AA   A G   GG 
+1289,QYW86769,SLC30A9,基因型 ：  AA   A G   GG 
+1290,QYW77727,--,基因型 ：  AA   A T     TT    
+1291,QYW87585,HNMT,基因型 ：  A G   GG   AA    
+1292,QYW60755,TAPBP,基因型 ：  AA   A G   GG 
+1293,QYW94096,TGA2,基因型 ：  GG   AA   A G   
+1294,QYW56170,P2RY1,基因型 ：   TT    CT   C C 
+1295,QYW90811,PTGR,基因型 ：  A G   GG   AA  
+1296,QYW12614,TGA2,基因型 ：  C C   CT    TT  
+1297,QYW55315,TBXA2R,基因型 ：  AA   A G   GG 
+1298,QYW65613,PEAR1,基因型 ：  GG   A G   AA  
+1299,QYW63126,GP6,基因型 ：  GG   AA   A G    
+1300,QYW72569,ADORA1,基因型 ：  C C   CT    TT 
+1301,QYW36442,--,基因型 ：  AA   A C   C C     
+1302,QYW18094,B9D2,基因型 ：  GG   AA   A G      
+1303,QYW31641,TAPBP,基因型 ：  GG   C C   C G 
+1304,QYW23026,PTGER2,基因型 ：  GG   C G   C C 
+1305,QYW32118,ADORA1,基因型 ：  GG   GT    TT 
+1306,QYW35599,L4,基因型 ：   TT    CT   C C    
+1307,QYW24201,CYP2D6,基因型 ：  C C   CT    TT 
+1308,QYW36897,--,基因型 ：   TT    AA   A T     
+1309,QYW85701,LPA,基因型 ：  C C   CT    TT     
+1310,QYW99228,TGB3,基因型 ：   TT    C C   CT 
+1311,QYW65519,CCAT2,基因型 ：   TT    GT   GG 
+1312,QYW34295,HCP5,基因型 ：   TT    GT   GG 
+1313,QYW68019,--,基因型 ：   TT    CT   C C     
+1314,QYW15674,FDPS,基因型 ：  AA   A G   GG     
+1315,QYW75804,ABCG5,基因型 ：  C C   C G   GG 
+1316,QYW40800,ABCA1,基因型 ：  GG   C G   C C 
+1317,QYW65999,HMGCR,基因型 ：   TT    GT   GG 
+1318,QYW24702,HTR7,基因型 ：  C C   CT    TT  
+1319,QYW18544,HTR3B,基因型 ：  AA   A G   GG   
+1320,QYW62545,CYP7A1,基因型 ：   TT    GT   GG 
+1321,QYW53348,COQ2,基因型 ：  C C   C G   GG 
+1322,QYW71330,CETP,基因型 ：  A G   GG   AA  
+1323,QYW74888,APOE,基因型 ：   TT    CT   C C   
+1324,QYW88340,CYP3A5,基因型 ：  C C   CT    TT 
+1325,QYW23315,MYLP,基因型 ：  AA   A G   GG 
+1326,QYW55420,PLA2G4A,基因型 ：  GG   C G   C C 
+1327,QYW49048,ABCB1,基因型 ：  AA   A G   GG  
+1328,QYW30258,CACNA1C-AS1,基因型 ：  A G   GG   AA 
+1329,QYW56105,NR1H3,基因型 ：  AA   A G   GG 
+1330,QYW85393,FTO,基因型 ：  C C   A C   AA   
+1331,QYW18082,ADRA2A,基因型 ：  GG   AA   A G  
+1332,QYW66511,ADRB1,基因型 ：  AA   A G   GG 
+1333,QYW69193,ADRB1,基因型 ：  C C   C G   GG 
+1334,QYW16399,GALNT2,基因型 ：  C C   CT    TT 
+1335,QYW13419,GNB3,基因型 ：  GG   AA   A G   
+1336,QYW41403,ABCB1,基因型 ：  AA   A G   GG  
+1337,QYW88697,PTGS2,基因型 ：  AA   A G   GG     
+1338,QYW38598,FTO,基因型 ：  A G   AA   GG     
+1339,QYW30377,ABCB1,基因型 ：  GG   A G   AA  
+1340,QYW52338,ABCB1,基因型 ：  CT    TT    C C 
+1341,QYW62583,CYP2C19,基因型 ：   TT    C C   CT 
+1342,QYW60021,ABCB1,基因型 ：  AA   A G   GG 
+1343,QYW60070,ABCB1,基因型 ：  C C   CT    TT 
+1344,QYW36170,ABCB1,基因型 ：  GT    TT    GG 
+1345,QYW90805,ABCB1,基因型 ：  CT    TT    C C 
+1346,QYW42883,CYP2D6,基因型 ：  GG   A G   AA  
+1347,QYW43527,ABCB1,基因型 ：  C C   CT    TT 
+1348,QYW63203,ABCB1,基因型 ：  A G   GG   AA  
+1349,QYW96080,CYP2C19,基因型 ：  GG   AA   A G 
+1350,QYW11724,ABCB1,基因型 ：  AA   A G   GG 
+1351,QYW75193,--,基因型 ：  C C   CT    TT      
+1352,QYW56609,--,基因型 ：  AA   A G   GG      
+1353,QYW32728,MPDH2,基因型 ：  AA   A G   GG 
+1354,QYW22116,UGT1A9,基因型 ：  GG   GA   AA 
+1355,QYW74826,ABCB1,基因型 ：   TT    CT   C C 
+1356,QYW57569,ABCC3,基因型 ：  AA   A G   GG 
+1357,QYW69552,EPHX1,基因型 ：  C C   CT    TT 
+1358,QYW15835,LG3,基因型 ：  C C   CT    TT   
+1359,QYW80570,SLC31A1,基因型 ：  GG   GT    TT 
+1360,QYW78299,ABCB1,基因型 ：  AA   A G   GG  
+1361,QYW65799,AKT1,基因型 ：  AA   A C   C C  
+1362,QYW49354,GSTP1,基因型 ：  C C   CT    TT  
+1363,QYW62259,TPMT,基因型 ：  C C    TT    CT  
+1364,QYW43380,ERCC1,基因型 ：  A G   GG   AA 
+1365,QYW90932,TPMT,基因型 ：  AA   A T     TT 
+1366,QYW10545,GALNT14,基因型 ：  GG   GT    TT 
