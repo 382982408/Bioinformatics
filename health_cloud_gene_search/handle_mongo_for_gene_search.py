@@ -42,7 +42,5 @@ def main():
             f_result.write(eachline)
     f_result.close()
 
-
-
 if __name__ == '__main__':
     main()
