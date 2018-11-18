@@ -1,0 +1,315 @@
+Posn.,Base,A,G,C,T,Gap,Location,Codon,Position,Amino Change,Syn?
+15001,T,,,3,2701,,Cytb,85,3,Asn -> Asn,Yes
+15002,G,1,2703,,,,Cytb,86,1,Gly -> Ser,No
+15007,C,,,2703,1,,Cytb,87,3,Ala -> Ala,Yes
+15010,A,2703,1,,,,Cytb,88,3,Ser -> Ser,Yes
+15016,C,,,2702,2,,Cytb,90,3,Phe -> Phe,Yes
+15022,C,,,2702,2,,Cytb,92,3,Ile -> Ile,Yes
+15024,G,1,2703,,,,Cytb,93,2,Cys -> Tyr,No
+15025,C,,,2702,2,,Cytb,93,3,Cys -> Cys,Yes
+15028,C,6,,2698,,,Cytb,94,3,Leu -> Leu,Yes
+15034,A,2701,3,,,,Cytb,96,3,Leu -> Leu,Yes
+15038,A,2703,1,,,,Cytb,98,1,Ile -> Val,No
+15040,C,,1,2693,10,,Cytb,98,3,Ile -> Ile,Yes
+15043,G,777,1927,,,,Cytb,99,3,Gly -> Gly,Yes
+15046,A,2703,1,,,,Cytb,100,3,Arg -> Arg,Yes
+15047,G,6,2698,,,,Cytb,101,1,Gly -> Ser,No
+15049,C,,,2700,4,,Cytb,101,3,Gly -> Gly,Yes
+15052,A,2703,1,,,,Cytb,102,3,Leu -> Leu,Yes
+15055,T,,,3,2701,,Cytb,103,3,Tyr -> Tyr,Yes
+15058,C,,,2703,1,,Cytb,104,3,Tyr -> Tyr,Yes
+15061,A,2692,12,,,,Cytb,105,3,Gly -> Gly,Yes
+15064,A,2703,1,,,,Cytb,106,3,Ser -> Ser,Yes
+15067,T,,,38,2666,,Cytb,107,3,Phe -> Phe,Yes
+15071,T,,,7,2697,,Cytb,109,1,Tyr -> His,No
+15077,G,2,2702,,,,Cytb,111,1,Glu -> Lys,No
+15080,A,2703,1,,,,Cytb,112,1,Thr -> Ala,No
+15083,T,,,1,2703,,Cytb,113,1,Trp -> Arg,No
+15090,T,,,2,2702,,Cytb,115,2,Ile -> Thr,No
+15095,A,2703,1,,,,Cytb,117,1,Ile -> Val,No
+15097,T,,,1,2703,,Cytb,117,3,Ile -> Ile,Yes
+15098,A,2703,1,,,,Cytb,118,1,Ile -> Val,No
+15099,T,,,4,2700,,Cytb,118,2,Ile -> Thr,No
+15100,C,,,2702,2,,Cytb,118,3,Ile -> Ile,Yes
+15103,C,,1,2703,,,Cytb,119,3,Leu -> Leu,Yes
+15106,G,7,2697,,,,Cytb,120,3,Leu -> Leu,Yes
+15107,C,,,2703,1,,Cytb,121,1,Leu -> Phe,No
+15109,T,,,1,2703,,Cytb,121,3,Leu -> Leu,Yes
+15110,G,24,2680,,,,Cytb,122,1,Ala -> Thr,No
+15113,A,2703,1,,,,Cytb,123,1,Thr -> Ala,No
+15115,T,,,32,2672,,Cytb,123,3,Thr -> Thr,Yes
+15119,G,3,2701,,,,Cytb,125,1,Ala -> Thr,No
+15133,A,2703,1,,,,Cytb,129,3,Met -> Met,Yes
+15136,C,,,2679,25,,Cytb,130,3,Gly -> Gly,Yes
+15139,T,,,1,2703,,Cytb,131,3,Tyr -> Tyr,Yes
+15148,G,20,2684,,,,Cytb,134,3,Pro -> Pro,Yes
+15151,A,2702,2,,,,Cytb,135,3,Trp -> Trp,Yes
+15153,G,1,2703,,,,Cytb,136,2,Gly -> Asp,No
+15157,A,2703,1,,,,Cytb,137,3,Gln -> Gln,Yes
+15160,A,2702,2,,,,Cytb,138,3,Met -> Met,Yes
+15164,T,,,1,2703,,Cytb,140,1,Phe -> Leu,No
+15172,G,16,2688,,,,Cytb,142,3,Gly -> Gly,Yes
+15178,A,2703,1,,,,Cytb,144,3,Thr -> Thr,Yes
+15184,T,,,6,2698,,Cytb,146,3,Ile -> Ile,Yes
+15190,C,,,2703,1,,Cytb,148,3,Asn -> Asn,Yes
+15191,T,1,,6,2697,,Cytb,149,1,Leu -> Met,No
+15193,A,2703,1,,,,Cytb,149,3,Leu -> Leu,Yes
+15199,C,,,2703,1,,Cytb,151,3,Ser -> Ser,Yes
+15204,T,,,14,2690,,Cytb,153,2,Ile -> Thr,No
+15205,C,,,2703,1,,Cytb,153,3,Ile -> Ile,Yes
+15208,A,2700,4,,,,Cytb,154,3,Pro -> Pro,Yes
+15209,T,,,1,2703,,Cytb,155,1,Tyr -> His,No
+15211,C,,,2703,1,,Cytb,155,3,Tyr -> Tyr,Yes
+15212,A,2703,1,,,,Cytb,156,1,Ile -> Val,No
+15213,T,,,1,2703,,Cytb,156,2,Ile -> Thr,No
+15214,T,,,2,2702,,Cytb,156,3,Ile -> Ile,Yes
+15217,G,31,2673,,,,Cytb,157,3,Gly -> Gly,Yes
+15218,A,2665,38,1,,,Cytb,158,1,Thr -> Ala,No
+15221,G,6,2698,,,,Cytb,159,1,Asp -> Asn,No
+15223,C,,,2677,27,,Cytb,159,3,Asp -> Asp,Yes
+15226,A,2702,2,,,,Cytb,160,3,Leu -> Leu,Yes
+15229,T,,,4,2700,,Cytb,161,3,Val -> Val,Yes
+15235,A,2694,10,,,,Cytb,163,3,Trp -> Trp,Yes
+15236,A,2678,26,,,,Cytb,164,1,Ile -> Val,No
+15244,A,2677,27,,,,Cytb,166,3,Gly -> Gly,Yes
+15245,G,1,2703,,,,Cytb,167,1,Gly -> Ser,No
+15247,C,,4,2700,,,Cytb,167,3,Gly -> Gly,Yes
+15250,C,,,2703,1,,Cytb,168,3,Tyr -> Tyr,Yes
+15257,G,19,2685,,,,Cytb,171,1,Asp -> Asn,No
+15258,A,2701,3,,,,Cytb,171,2,Asp -> Gly,No
+15261,G,20,2684,,,,Cytb,172,2,Ser -> Asn,No
+15262,T,,,3,2701,,Cytb,172,3,Ser -> Ser,Yes
+15263,C,,,2702,2,,Cytb,173,1,Pro -> Ser,No
+15265,C,,,2702,2,,Cytb,173,3,Pro -> Pro,Yes
+15266,A,2703,1,,,,Cytb,174,1,Thr -> Ala,No
+15271,C,,,2703,1,,Cytb,175,3,Leu -> Leu,Yes
+15274,A,2702,2,,,,Cytb,176,3,Thr -> Thr,Yes
+15286,C,,,2703,1,,Cytb,180,3,Thr -> Thr,Yes
+15287,T,,,2,2702,,Cytb,181,1,Phe -> Leu,No
+15289,T,,,3,2701,,Cytb,181,3,Phe -> Phe,Yes
+15292,C,,,2701,3,,Cytb,182,3,His -> His,Yes
+15295,C,,,2703,1,,Cytb,183,3,Phe -> Phe,Yes
+15296,A,2703,1,,,,Cytb,184,1,Ile -> Val,No
+15299,T,,,3,2701,,Cytb,185,1,Leu -> Leu,Yes
+15300,T,,,3,2701,,Cytb,185,2,Leu -> Ser,No
+15301,G,867,1837,,,,Cytb,185,3,Leu -> Leu,Yes
+15304,C,,,2703,1,,Cytb,186,3,Pro -> Pro,Yes
+15307,C,,,2702,2,,Cytb,187,3,Phe -> Phe,Yes
+15310,T,,,1,2703,,Cytb,188,3,Ile -> Ile,Yes
+15311,A,2688,16,,,,Cytb,189,1,Ile -> Val,No
+15313,T,,,7,2697,,Cytb,189,3,Ile -> Ile,Yes
+15314,G,16,2688,,,,Cytb,190,1,Ala -> Thr,No
+15315,C,,,2702,2,,Cytb,190,2,Ala -> Val,No
+15317,G,7,2697,,,,Cytb,191,1,Ala -> Thr,No
+15318,C,1,,2703,,,Cytb,191,2,Ala -> Asp,No
+15323,G,33,2671,,,,Cytb,193,1,Ala -> Thr,No
+15325,A,2700,3,1,,,Cytb,193,3,Ala -> Ala,Yes
+15326,A,17,2687,,,,Cytb,194,1,Thr -> Ala,No
+15327,C,,,2703,1,,Cytb,194,2,Thr -> Val,No
+15331,C,6,,2698,,,Cytb,195,3,Leu -> Leu,Yes
+15334,C,,,2703,1,,Cytb,196,3,His -> His,Yes
+15337,C,,,2703,1,,Cytb,197,3,Leu -> Leu,Yes
+15340,A,2701,3,,,,Cytb,198,3,Leu -> Leu,Yes
+15341,T,,,3,2701,,Cytb,199,1,Phe -> Leu,No
+15344,T,,,1,2703,,Cytb,200,1,Leu -> Leu,Yes
+15346,G,31,2673,,,,Cytb,200,3,Leu -> Leu,Yes
+15355,G,18,2686,,,,Cytb,203,3,Thr -> Thr,Yes
+15358,A,2703,1,,,,Cytb,204,3,Gly -> Gly,Yes
+15367,C,,,2703,1,,Cytb,207,3,Asn -> Asn,Yes
+15376,A,2703,1,,,,Cytb,210,3,Gly -> Gly,Yes
+15377,A,2703,1,,,,Cytb,211,1,Ile -> Val,No
+15378,T,,,1,2703,,Cytb,211,2,Ile -> Thr,No
+15379,C,,,2703,1,,Cytb,211,3,Ile -> Ile,Yes
+15380,A,2702,2,,,,Cytb,212,1,Thr -> Ala,No
+15381,C,,,2703,1,,Cytb,212,2,Thr -> Ile,No
+15385,C,,,2696,8,,Cytb,213,3,Ser -> Ser,Yes
+15386,C,,,2703,1,,Cytb,214,1,His -> Tyr,No
+15391,C,,,2699,5,,Cytb,215,3,Ser -> Ser,Yes
+15394,T,,,3,2701,,Cytb,216,3,Asp -> Asp,Yes
+15401,A,2703,1,,,,Cytb,219,1,Thr -> Ala,No
+15402,C,,,2702,2,,Cytb,219,2,Thr -> Ile,No
+15409,C,,,2701,3,,Cytb,221,3,His -> His,Yes
+15412,T,,,7,2697,,Cytb,222,3,Pro -> Pro,Yes
+15421,A,2703,1,,,,Cytb,225,3,Thr -> Thr,Yes
+15422,A,2701,3,,,,Cytb,226,1,Ile -> Val,No
+15427,A,2703,1,,,,Cytb,227,3,Lys -> Lys,Yes
+15431,G,36,2668,,,,Cytb,229,1,Ala -> Thr,No
+15434,C,,,2702,2,,Cytb,230,1,Leu -> Phe,No
+15436,C,,,2703,1,,Cytb,230,3,Leu -> Leu,Yes
+15439,C,,1,2702,1,,Cytb,231,3,Gly -> Gly,Yes
+15440,T,,,19,2685,,Cytb,232,1,Leu -> Leu,Yes
+15442,A,2703,1,,,,Cytb,232,3,Leu -> Leu,Yes
+15443,C,,1,2703,,,Cytb,233,1,Leu -> Val,No
+15448,C,,,2702,2,,Cytb,234,3,Leu -> Leu,Yes
+15449,T,,,2,2702,,Cytb,235,1,Phe -> Leu,No
+15451,C,,,2701,3,,Cytb,235,3,Phe -> Phe,Yes
+15452,C,235,,2469,,,Cytb,236,1,Leu -> Ile,No
+15454,T,,,13,2691,,Cytb,236,3,Leu -> Leu,Yes
+15458,T,,,2,2702,,Cytb,238,1,Ser -> Pro,No
+15459,C,,,2703,1,,Cytb,238,2,Ser -> Phe,No
+15460,C,,,2702,2,,Cytb,238,3,Ser -> Ser,Yes
+15466,G,14,2690,,,,Cytb,240,3,Met -> Met,Yes
+15467,A,2703,1,,,,Cytb,241,1,Thr -> Ala,No
+15468,C,,,2703,1,,Cytb,241,2,Thr -> Met,No
+15470,T,,,2,2702,,Cytb,242,1,Leu -> Leu,Yes
+15473,A,2703,1,,,,Cytb,243,1,Thr -> Ala,No
+15475,A,2701,3,,,,Cytb,243,3,Thr -> Thr,Yes
+15479,T,,,7,2697,,Cytb,245,1,Phe -> Leu,No
+15487,A,2621,,,83,,Cytb,247,3,Pro -> Pro,Yes
+15490,C,,,2703,1,,Cytb,248,3,Asp -> Asp,Yes
+15496,A,2701,3,,,,Cytb,250,3,Leu -> Leu,Yes
+15497,G,34,2670,,,,Cytb,251,1,Gly -> Ser,No
+15498,G,1,2702,1,,,Cytb,251,2,Gly -> Asp,No
+15499,C,,1,2703,,,Cytb,251,3,Gly -> Gly,Yes
+15508,C,,,2675,29,,Cytb,254,3,Asp -> Asp,Yes
+15511,T,,,7,2697,,Cytb,255,3,Asn -> Asn,Yes
+15512,T,,,1,2703,,Cytb,256,1,Tyr -> His,No
+15514,T,,,7,2697,,Cytb,256,3,Tyr -> Tyr,Yes
+15516,C,,,2703,1,,Cytb,257,2,Thr -> Ile,No
+15518,C,,,2688,16,,Cytb,258,1,Leu -> Leu,Yes
+15519,T,,,5,2699,,Cytb,258,2,Leu -> Pro,No
+15520,A,2703,1,,,,Cytb,258,3,Leu -> Leu,Yes
+15521,G,2,2701,1,,,Cytb,259,1,Ala -> Thr,No
+15523,C,,,2703,1,,Cytb,259,3,Ala -> Ala,Yes
+15524,A,2684,20,,,,Cytb,260,1,Asn -> Asp,No
+15530,T,,,13,2691,,Cytb,262,1,Leu -> Leu,Yes
+15535,C,,,2656,48,,Cytb,263,3,Asn -> Asn,Yes
+15547,C,,,2703,1,,Cytb,267,3,His -> His,Yes
+15550,C,,,2700,4,,Cytb,268,3,Ile -> Ile,Yes
+15553,G,5,2699,,,,Cytb,269,3,Lys -> Lys,Yes
+15556,C,,,2703,1,,Cytb,270,3,Pro -> Pro,Yes
+15562,A,2697,7,,,,Cytb,272,3,Trp -> Trp,Yes
+15565,T,,,4,2700,,Cytb,273,3,Tyr -> Tyr,Yes
+15586,T,,,1,2703,,Cytb,280,3,Ile -> Ile,Yes
+15589,C,2,,2701,1,,Cytb,281,3,Leu -> Leu,Yes
+15592,A,2702,2,,,,Cytb,282,3,Arg -> Arg,Yes
+15596,G,1,2703,,,,Cytb,284,1,Val -> Ile,No
+15601,T,,,2,2702,,Cytb,285,3,Pro -> Pro,Yes
+15607,A,2555,149,,,,Cytb,287,3,Lys -> Lys,Yes
+15613,A,2702,2,,,,Cytb,289,3,Gly -> Gly,Yes
+15616,C,,,2703,1,,Cytb,290,3,Gly -> Gly,Yes
+15618,T,,,1,2703,,Cytb,291,2,Val -> Ala,No
+15622,T,,,4,2700,,Cytb,292,3,Leu -> Leu,Yes
+15626,C,,,2700,4,,Cytb,294,1,Leu -> Leu,Yes
+15629,T,,,11,2693,,Cytb,295,1,Leu -> Leu,Yes
+15632,C,1,,2696,7,,Cytb,296,1,Leu -> Leu,Yes
+15634,A,2703,1,,,,Cytb,296,3,Leu -> Leu,Yes
+15635,T,,,1,2703,,Cytb,297,1,Ser -> Pro,No
+15645,T,,,1,2703,,Cytb,300,2,Ile -> Thr,No
+15646,C,,,2703,1,,Cytb,300,3,Ile -> Ile,Yes
+15649,A,2703,1,,,,Cytb,301,3,Leu -> Leu,Yes
+15652,A,2702,2,,,,Cytb,302,3,Ala -> Ala,Yes
+15657,T,,,1,2703,,Cytb,304,2,Ile -> Thr,No
+15661,C,,,2700,4,,Cytb,305,3,Pro -> Pro,Yes
+15662,A,2676,28,,,,Cytb,306,1,Ile -> Val,No
+15663,T,,,9,2695,,Cytb,306,2,Ile -> Thr,No
+15664,C,,,2699,5,,Cytb,306,3,Ile -> Ile,Yes
+15670,T,,,19,2685,,Cytb,308,3,His -> His,Yes
+15671,A,2703,1,,,,Cytb,309,1,Met -> Val,No
+15672,T,,,1,2703,,Cytb,309,2,Met -> Thr,No
+15674,T,,,3,2701,,Cytb,310,1,Ser -> Pro,No
+15679,A,2702,2,,,,Cytb,311,3,Lys -> Lys,Yes
+15682,A,2702,2,,,,Cytb,312,3,Gln -> Gln,Yes
+15692,A,2703,1,,,,Cytb,316,1,Met -> Val,No
+15693,T,,,12,2692,,Cytb,316,2,Met -> Thr,No
+15697,T,,,8,2696,,Cytb,317,3,Phe -> Phe,Yes
+15703,A,2702,2,,,,Cytb,319,3,Pro -> Pro,Yes
+15712,A,2703,1,,,,Cytb,322,3,Gln -> Gln,Yes
+15719,T,,,3,2701,,Cytb,325,1,Tyr -> His,No
+15721,T,,,3,2701,,Cytb,325,3,Tyr -> Tyr,Yes
+15724,A,2692,12,,,,Cytb,326,3,Trp -> Trp,Yes
+15731,G,2,2702,,,,Cytb,329,1,Ala -> Thr,No
+15733,C,1,,2703,,,Cytb,329,3,Ala -> Ala,Yes
+15734,G,7,2697,,,,Cytb,330,1,Ala -> Thr,No
+15735,C,,,2701,3,,Cytb,330,2,Ala -> Val,No
+15739,C,,,2703,1,,Cytb,331,3,Asp -> Asp,Yes
+15746,A,2677,27,,,,Cytb,334,1,Ile -> Val,No
+15748,T,,,3,2701,,Cytb,334,3,Ile -> Ile,Yes
+15749,C,,,2703,1,,Cytb,335,1,Leu -> Leu,Yes
+15752,A,2702,2,,,,Cytb,336,1,Thr -> Ala,No
+15754,C,1,,2698,5,,Cytb,336,3,Thr -> Thr,Yes
+15757,A,2702,2,,,,Cytb,337,3,Trp -> Trp,Yes
+15758,A,2675,29,,,,Cytb,338,1,Ile -> Val,No
+15766,A,2697,7,,,,Cytb,340,3,Gly -> Gly,Yes
+15769,A,2701,1,2,,,Cytb,341,3,Gln -> Gln,Yes
+15770,C,,,2702,2,,Cytb,342,1,Pro -> Ser,No
+15773,G,5,2699,,,,Cytb,343,1,Val -> Met,No
+15774,T,,,1,2703,,Cytb,343,2,Val -> Ala,No
+15775,A,2701,3,,,,Cytb,343,3,Val -> Val,Yes
+15776,A,2703,1,,,,Cytb,344,1,Ser -> Gly,No
+15777,G,4,2698,2,,,Cytb,344,2,Ser -> Asn,No
+15780,A,2703,,,1,,Cytb,345,2,Tyr -> Phe,No
+15784,T,,,85,2619,,Cytb,346,3,Pro -> Pro,Yes
+15787,T,,,2,2702,,Cytb,347,3,Phe -> Phe,Yes
+15789,C,,,2701,3,,Cytb,348,2,Thr -> Ile,No
+15790,C,,,2698,6,,Cytb,348,3,Thr -> Thr,Yes
+15791,A,2702,2,,,,Cytb,349,1,Ile -> Val,No
+15792,T,,,1,2703,,Cytb,349,2,Ile -> Thr,No
+15793,C,,,2702,2,,Cytb,349,3,Ile -> Ile,Yes
+15799,A,2699,5,,,,Cytb,351,3,Gly -> Gly,Yes
+15803,G,4,2700,,,,Cytb,353,1,Val -> Met,No
+15805,A,2699,5,,,,Cytb,353,3,Val -> Val,Yes
+15806,G,2,2702,,,,Cytb,354,1,Ala -> Thr,No
+15808,A,2702,2,,,,Cytb,354,3,Ala -> Ala,Yes
+15812,G,11,2693,,,,Cytb,356,1,Val -> Met,No
+15813,T,,,1,2703,,Cytb,356,2,Val -> Ala,No
+15817,A,2701,3,,,,Cytb,357,3,Leu -> Leu,Yes
+15824,A,2687,17,,,,Cytb,360,1,Thr -> Ala,No
+15825,C,,,2703,1,,Cytb,360,2,Thr -> Met,No
+15833,C,,,2682,22,,Cytb,363,1,Leu -> Leu,Yes
+15848,A,2702,2,,,,Cytb,368,1,Thr -> Ala,No
+15849,C,,,2696,8,,Cytb,368,2,Thr -> Ile,No
+15850,T,,2,16,2686,,Cytb,368,3,Thr -> Thr,Yes
+15851,A,2676,28,,,,Cytb,369,1,Ile -> Val,No
+15852,T,,,6,2698,,Cytb,369,2,Ile -> Thr,No
+15857,C,,,2703,1,,Cytb,371,1,Leu -> Leu,Yes
+15860,A,2681,23,,,,Cytb,372,1,Ile -> Val,No
+15862,T,,,3,2701,,Cytb,372,3,Ile -> Ile,Yes
+15865,A,2703,1,,,,Cytb,373,3,Glu -> Glu,Yes
+15868,C,,,2703,1,,Cytb,374,3,Asn -> Asn,Yes
+15872,A,2703,1,,,,Cytb,376,1,Met -> Val,No
+15874,A,2681,23,,,,Cytb,376,3,Met -> Met,Yes
+15880,A,2702,2,,,,Cytb,378,3,Lys -> Lys,Yes
+15883,G,9,2695,,,,Cytb,379,3,Trp -> Trp,Yes
+15884,G,30,2620,54,,,Cytb,380,1,Ala -> Thr,No
+15885,C,,,2699,5,,Cytb,380,2,Ala -> Val,No
+15886,C,,,2700,4,,Cytb,380,3,Ala -> Ala,Yes
+15889,T,,,3,2701,,tRNA Thr,,,,
+15892,T,,,1,2703,,tRNA Thr,,,,
+15894,G,1,2703,,,,tRNA Thr,,,,
+15900,T,,,6,2698,,tRNA Thr,,,,
+15902,A,2703,1,,,,tRNA Thr,,,,
+15904,C,1,,2627,76,,tRNA Thr,,,,
+15905,T,,,2,2702,,tRNA Thr,,,,
+15907,A,2684,20,,,,tRNA Thr,,,,
+15908,T,,,1,2703,,tRNA Thr,,,,
+15909,A,2703,1,,,,tRNA Thr,,,,
+15912,C,,,2703,1,,tRNA Thr,,,,
+15914,A,2703,1,,,,tRNA Thr,,,,
+15916,T,,,1,2703,,tRNA Thr,,,,
+15924,A,2597,106,,,,tRNA Thr,,,,
+15927,G,44,2660,,,,tRNA Thr,,,,
+15928,G,132,2572,,,,tRNA Thr,,,,
+15929,A,2703,1,,,,tRNA Thr,,,,
+15930,G,37,2667,,,,tRNA Thr,,,,
+15932,T,,,1,2703,,tRNA Thr,,,,
+15935,A,2703,1,,,,tRNA Thr,,,,
+15936,A,2702,1,,1,,tRNA Thr,,,,
+15937,A,2701,,,3,,tRNA Thr,,,,
+15938,C,,,2703,1,,tRNA Thr,,,,
+15939,C,,,2695,9,,tRNA Thr,,,,
+15940,T,,,3,2681,20,tRNA Thr,,,,
+15941,T,,,17,2687,,tRNA Thr,,,,
+15942,T,,,7,2697,,tRNA Thr,,,,
+15946,C,,,2698,6,,tRNA Thr,,,,
+15951,A,2682,22,,,,tRNA Thr,,,,
+15954,A,2678,16,10,,,Non-coding 10,,,,
+15955,A,2703,1,,,,tRNA Pro,,,,
+15965,A,2703,1,,,,tRNA Pro,,,,
+15968,T,,,4,2700,,tRNA Pro,,,,
+15970,T,,,1,2703,,tRNA Pro,,,,
+15972,T,,,1,2703,,tRNA Pro,,,,
+15974,A,2703,1,,,,tRNA Pro,,,,
+15978,C,,,2701,3,,tRNA Pro,,,,
+15983,T,,,1,2703,,tRNA Pro,,,,
+16000,G,3,2700,,1,,tRNA Pro,,,,

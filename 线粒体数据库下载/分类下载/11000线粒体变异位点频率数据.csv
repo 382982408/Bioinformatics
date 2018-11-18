@@ -1,0 +1,194 @@
+Posn.,Base,A,G,C,T,Gap,Location,Codon,Position,Amino Change,Syn?
+10003,T,,,1,2703,,tRNA Gly,,,,
+10005,A,2701,3,,,,tRNA Gly,,,,
+10007,T,,,4,2700,,tRNA Gly,,,,
+10031,T,,,6,2698,,tRNA Gly,,,,
+10034,T,,,37,2667,,tRNA Gly,,,,
+10042,A,2699,3,,2,,tRNA Gly,,,,
+10043,C,,,2703,1,,tRNA Gly,,,,
+10044,A,2688,16,,,,tRNA Gly,,,,
+10049,A,2703,1,,,,tRNA Gly,,,,
+10057,T,,,1,2703,,tRNA Gly,,,,
+10071,T,,,1,2703,,ND3,5,1,Leu -> Leu,Yes
+10084,T,,,31,2673,,ND3,9,2,Ile -> Thr,No
+10086,A,2678,26,,,,ND3,10,1,Asn -> Asp,No
+10088,C,,,2702,2,,ND3,10,3,Asn -> Asn,Yes
+10097,A,2697,4,3,,,ND3,13,3,Leu -> Leu,Yes
+10101,T,,,3,2701,,ND3,15,1,Leu -> Leu,Yes
+10103,A,2703,1,,,,ND3,15,3,Leu -> Leu,Yes
+10104,C,,,2690,14,,ND3,16,1,Leu -> Leu,Yes
+10115,T,,,61,2643,,ND3,19,3,Ile -> Ile,Yes
+10118,T,,,7,2697,,ND3,20,3,Ile -> Ile,Yes
+10124,T,,,2,2702,,ND3,22,3,Phe -> Phe,Yes
+10142,C,,,2696,8,,ND3,28,3,Asn -> Asn,Yes
+10143,G,10,2694,,,,ND3,29,1,Gly -> Ser,No
+10151,A,2703,1,,,,ND3,31,3,Met -> Met,Yes
+10154,A,2702,2,,,,ND3,32,3,Glu -> Glu,Yes
+10166,T,,,6,2698,,ND3,36,3,Pro -> Pro,Yes
+10169,C,,,2703,1,,ND3,37,3,Tyr -> Tyr,Yes
+10172,G,11,2693,,,,ND3,38,3,Glu -> Glu,Yes
+10181,C,,,2682,22,,ND3,41,3,Phe -> Phe,Yes
+10187,T,,,3,2701,,ND3,43,3,Pro -> Pro,Yes
+10190,A,2703,1,,,,ND3,44,3,Met -> Met,Yes
+10192,C,1,,2697,6,,ND3,45,2,Ser -> Phe,No
+10197,G,2,2702,,,,ND3,47,1,Ala -> Thr,No
+10199,C,,,2703,1,,ND3,47,3,Ala -> Ala,Yes
+10202,C,,,2703,1,,ND3,48,3,Arg -> Arg,Yes
+10208,T,,,2,2702,,ND3,50,3,Pro -> Pro,Yes
+10211,C,,,2696,8,,ND3,51,3,Phe -> Phe,Yes
+10214,C,,,2701,3,,ND3,52,3,Ser -> Ser,Yes
+10217,A,2701,3,,,,ND3,53,3,Met -> Met,Yes
+10232,A,2703,1,,,,ND3,58,3,Val -> Val,Yes
+10235,T,,,1,2702,,ND3,59,3,Ala -> Ala,Yes
+10237,T,,,2,2702,,ND3,60,2,Ile -> Thr,No
+10238,T,,,83,2621,,ND3,60,3,Ile -> Ile,Yes
+10245,T,,,9,2695,,ND3,63,1,Leu -> Leu,Yes
+10247,A,2703,1,,,,ND3,63,3,Leu -> Leu,Yes
+10248,T,,,1,2703,,ND3,64,1,Leu -> Leu,Yes
+10253,T,,,2,2702,,ND3,65,3,Phe -> Phe,Yes
+10256,T,,,4,2700,,ND3,66,3,Asp -> Asp,Yes
+10262,A,2703,1,,,,ND3,68,3,Glu -> Glu,Yes
+10265,T,,,1,2703,,ND3,69,3,Ile -> Ile,Yes
+10268,C,,,2703,1,,ND3,70,3,Ala -> Ala,Yes
+10274,T,,,1,2703,,ND3,72,3,Leu -> Leu,Yes
+10283,A,2699,5,,,,ND3,75,3,Leu -> Leu,Yes
+10286,A,2702,2,,,,ND3,76,3,Pro -> Pro,Yes
+10289,A,2695,9,,,,ND3,77,3,Trp -> Trp,Yes
+10308,C,,,2703,1,,ND3,84,1,Leu -> Leu,Yes
+10310,G,66,2638,,,,ND3,84,3,Leu -> Leu,Yes
+10313,A,2703,1,,,,ND3,85,3,Pro -> Pro,Yes
+10320,G,2,2702,,,,ND3,88,1,Val -> Ile,No
+10321,T,,,26,2678,,ND3,88,2,Val -> Ala,No
+10322,T,,,1,2703,,ND3,88,3,Val -> Val,Yes
+10325,G,21,2683,,,,ND3,89,3,Met -> Met,Yes
+10335,T,,,1,2703,,ND3,93,1,Leu -> Leu,Yes
+10343,C,,,2703,1,,ND3,95,3,Ile -> Ile,Yes
+10344,A,2703,,1,,,ND3,96,1,Ile -> Leu,No
+10345,T,,,30,2674,,ND3,96,2,Ile -> Thr,No
+10352,A,2702,2,,,,ND3,98,3,Leu -> Leu,Yes
+10355,C,,,2703,1,,ND3,99,3,Ala -> Ala,Yes
+10356,C,,,2703,1,,ND3,100,1,Leu -> Leu,Yes
+10358,A,2701,3,,,,ND3,100,3,Leu -> Leu,Yes
+10361,T,,,1,2703,,ND3,101,3,Ser -> Ser,Yes
+10364,G,2,2702,,,,ND3,102,3,Leu -> Leu,Yes
+10365,G,1,2703,,,,ND3,103,1,Ala -> Thr,No
+10370,T,,,3,2701,,ND3,104,3,Tyr -> Tyr,Yes
+10373,G,26,2678,,,,ND3,105,3,Glu -> Glu,Yes
+10379,A,2703,1,,,,ND3,107,3,Leu -> Leu,Yes
+10382,A,2703,1,,,,ND3,108,3,Gln -> Gln,Yes
+10389,T,,,3,2701,,ND3,111,1,Leu -> Leu,Yes
+10394,C,,,2696,8,,ND3,112,3,Asp -> Asp,Yes
+10397,A,2669,35,,,,ND3,113,3,Trp -> Trp,Yes
+10398,A,1461,1242,,1,,ND3,114,1,Thr -> Ala,No
+10400,C,,,1980,724,,ND3,114,3,Thr -> Ala,No
+10403,A,2703,1,,,,ND3,115,3,Glu -> Glu,Yes
+10410,T,,,39,2665,,tRNA Arg,,,,
+10411,A,2700,4,,,,tRNA Arg,,,,
+10423,A,2703,1,,,,tRNA Arg,,,,
+10424,A,2703,,,1,,tRNA Arg,,,,
+10427,G,3,2701,,,,tRNA Arg,,,,
+10448,T,,,1,2703,,tRNA Arg,,,,
+10454,T,,,11,2693,,tRNA Arg,,,,
+10463,T,,,127,2577,,tRNA Arg,,,,
+10481,T,,,2,2702,,ND4L,4,3,Ile -> Ile,Yes
+10482,T,,,1,2703,,ND4L,5,1,Tyr -> His,No
+10484,C,,,2703,1,,ND4L,5,3,Tyr -> Tyr,Yes
+10493,T,,,3,2701,,ND4L,8,3,Ile -> Ile,Yes
+10497,C,,,2702,2,,ND4L,10,1,Leu -> Leu,Yes
+10499,A,2696,8,,,,ND4L,10,3,Leu -> Leu,Yes
+10505,T,,,1,2703,,ND4L,12,3,Phe -> Phe,Yes
+10506,A,2696,8,,,,ND4L,13,1,Thr -> Ala,No
+10529,A,2702,2,,,,ND4L,20,3,Leu -> Leu,Yes
+10530,G,1,2703,,,,ND4L,21,1,Val -> Met,No
+10535,T,,,5,2699,,ND4L,22,3,Tyr -> Tyr,Yes
+10550,A,2573,131,,,,ND4L,27,3,Met -> Met,Yes
+10560,C,,,2703,1,,ND4L,31,1,Leu -> Leu,Yes
+10583,A,2703,1,,,,ND4L,38,3,Leu -> Leu,Yes
+10586,G,35,2669,,,,ND4L,39,3,Ser -> Ser,Yes
+10589,G,44,2660,,,,ND4L,40,3,Leu -> Leu,Yes
+10595,T,,,1,2703,,ND4L,42,3,Ile -> Ile,Yes
+10598,A,2699,5,,,,ND4L,43,3,Met -> Met,Yes
+10604,T,,,1,2703,,ND4L,45,3,Thr -> Thr,Yes
+10607,C,,,2686,18,,ND4L,46,3,Leu -> Leu,Yes
+10609,T,,,44,2660,,ND4L,47,2,Met -> Thr,No
+10610,A,2703,,,1,,ND4L,47,3,Met -> Ile,No
+10619,C,,,2702,2,,ND4L,50,3,Asn -> Asn,Yes
+10631,C,2,,2701,1,,ND4L,54,3,Leu -> Leu,Yes
+10637,C,,,2702,2,,ND4L,56,3,Ala -> Ala,Yes
+10640,T,,,2,2702,,ND4L,57,3,Asn -> Asn,Yes
+10644,G,1,2703,,,,ND4L,59,1,Val -> Met,No
+10645,T,,1,,2703,,ND4L,59,2,Val -> Gly,No
+10646,G,13,2691,,,,ND4L,59,3,Val -> Val,Yes
+10654,C,,,2702,2,,ND4L,62,2,Ala -> Val,No
+10655,C,,,2703,1,,ND4L,62,3,Ala -> Ala,Yes
+10658,A,2697,7,,,,ND4L,63,3,Met -> Met,Yes
+10659,C,,,2703,1,,ND4L,64,1,Leu -> Leu,Yes
+10664,C,,,2668,36,,ND4L,65,3,Val -> Val,Yes
+10667,T,,,7,2697,,ND4L,66,3,Phe -> Phe,Yes
+10670,C,,,2701,3,,ND4L,67,3,Ala -> Ala,Yes
+10679,A,2702,2,,,,ND4L,70,3,Glu -> Glu,Yes
+10682,A,2703,1,,,,ND4L,71,3,Ala -> Ala,Yes
+10685,G,22,2682,,,,ND4L,72,3,Ala -> Ala,Yes
+10688,G,90,2614,,,,ND4L,73,3,Val -> Val,Yes
+10694,A,2702,2,,,,ND4L,75,3,Leu -> Leu,Yes
+10697,C,,,2703,1,,ND4L,76,3,Ala -> Ala,Yes
+10698,C,,,2703,1,,ND4L,77,1,Leu -> Leu,Yes
+10700,A,2697,7,,,,ND4L,77,3,Leu -> Leu,Yes
+10724,T,,,5,2699,,ND4L,85,3,Tyr -> Tyr,Yes
+10728,C,,,2703,1,,ND4L,87,1,Leu -> Leu,Yes
+10733,C,,,2699,5,,ND4L,88,3,Asp -> Asp,Yes
+10736,C,,,2701,3,,ND4L,89,3,Tyr -> Tyr,Yes
+10739,A,2703,1,,,,ND4L,90,3,Val -> Val,Yes
+10750,A,2697,7,,,,ND4L,94,2,Asn -> Ser,No
+10752,C,,,2703,1,,ND4L,95,1,Leu -> Leu,Yes
+10754,A,2686,13,5,,,ND4L,95,3,Leu -> Leu,Yes
+10757,C,,,2703,1,,ND4L,96,3,Leu -> Leu,Yes
+10768,A,2703,1,,,,ND4,3,3,Lys -> Lys,Yes
+10771,A,2703,1,,,,ND4,4,3,Leu -> Leu,Yes
+10775,G,2,2702,,,,ND4,6,1,Val -> Ile,No
+10783,A,2703,,1,,,ND4,8,3,Thr -> Thr,Yes
+10784,A,2703,1,,,,ND4,9,1,Ile -> Val,No
+10786,T,,,4,2700,,ND4,9,3,Ile -> Ile,Yes
+10790,T,,,12,2692,,ND4,11,1,Leu -> Leu,Yes
+10792,A,2699,5,,,,ND4,11,3,Leu -> Leu,Yes
+10793,C,,,2701,3,,ND4,12,1,Leu -> Leu,Yes
+10801,G,32,2672,,,,ND4,14,3,Leu -> Leu,Yes
+10804,A,2703,1,,,,ND4,15,3,Thr -> Thr,Yes
+10810,T,,,94,2610,,ND4,17,3,Leu -> Leu,Yes
+10816,A,2699,3,,2,,ND4,19,3,Lys -> Asn,No
+10819,A,2674,30,,,,ND4,20,3,Lys -> Lys,Yes
+10822,C,,,2698,6,,ND4,21,3,His -> His,Yes
+10825,A,2703,1,,,,ND4,22,3,Met -> Met,Yes
+10828,T,,,3,2701,,ND4,23,3,Ile -> Ile,Yes
+10834,C,,,2703,1,,ND4,25,3,Ile -> Ile,Yes
+10837,C,,,2703,1,,ND4,26,3,Asn -> Asn,Yes
+10845,C,,,2703,1,,ND4,29,2,Thr -> Ile,No
+10846,C,,,2703,1,,ND4,29,3,Thr -> Thr,Yes
+10849,C,,,2703,1,,ND4,30,3,His -> His,Yes
+10853,C,,,2702,2,,ND4,32,1,Leu -> Leu,Yes
+10873,T,,,943,1761,,ND4,38,3,Pro -> Pro,Yes
+10874,C,,,2703,1,,ND4,39,1,Leu -> Leu,Yes
+10876,A,2683,21,,,,ND4,39,3,Leu -> Leu,Yes
+10885,T,,,1,2703,,ND4,42,3,Phe -> Phe,Yes
+10891,A,2703,1,,,,ND4,44,3,Gln -> Gln,Yes
+10894,C,,,2703,1,,ND4,45,3,Ile -> Ile,Yes
+10895,A,2695,9,,,,ND4,46,1,Asn -> Asp,No
+10899,A,2698,6,,,,ND4,47,2,Asn -> Ser,No
+10903,C,,,2701,3,,ND4,48,3,Asn -> Asn,Yes
+10907,T,,,5,2699,,ND4,50,1,Phe -> Leu,No
+10914,G,3,2701,,,,ND4,52,2,Cys -> Tyr,No
+10915,T,,,63,2641,,ND4,52,3,Cys -> Cys,Yes
+10920,C,,,2700,4,,ND4,54,2,Pro -> Leu,No
+10927,T,,,24,2680,,ND4,56,3,Phe -> Phe,Yes
+10933,C,,1,2703,,,ND4,58,3,Ser -> Ser,Yes
+10939,C,,,2702,2,,ND4,60,3,Pro -> Pro,Yes
+10940,C,,,2703,1,,ND4,61,1,Leu -> Leu,Yes
+10954,C,,,2702,2,,ND4,65,3,Leu -> Leu,Yes
+10955,C,,,2701,3,,ND4,66,1,Leu -> Leu,Yes
+10961,C,,,2702,2,,ND4,68,1,Leu -> Leu,Yes
+10966,T,,,1,2703,,ND4,69,3,Thr -> Thr,Yes
+10972,A,2702,2,,,,ND4,71,3,Trp -> Trp,Yes
+10976,C,,,2685,19,,ND4,73,1,Leu -> Leu,Yes
+10978,A,2688,16,,,,ND4,73,3,Leu -> Leu,Yes
+10986,C,3,,2701,,,ND4,76,2,Thr -> Lys,No
+10993,G,3,2701,,,,ND4,78,3,Met -> Met,Yes
